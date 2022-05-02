@@ -1,0 +1,132 @@
+player_1;player_2;score;set_1;set_2;set_3;id_player_1;id_player_2;id_tournament;id_match
+Taylor Fritz;Rafael Nadal;63 765;63;765;;20;4;19;1
+Rafael Nadal;Carlos Alcaraz;64 46 63;64;46;63;4;19;19;2
+Taylor Fritz;Andrey Rublev;75 64;75;64;;20;7;19;3
+Rafael Nadal;Nick Kyrgios;760 57 64;760;57;64;4;132;19;4
+Andrey Rublev;Grigor Dimitrov;75 62;75;62;;7;35;19;5
+Carlos Alcaraz;Cameron Norrie;64 63;64;63;;19;12;19;6
+Taylor Fritz;Miomir Kecmanovic;765 36 61;765;36;61;20;61;19;7
+Rafael Nadal;Reilly Opelka;763 765;763;765;;4;17;19;8
+Miomir Kecmanovic;Matteo Berrettini;63 675 64;63;675;64;61;6;19;9
+Andrey Rublev;Hubert Hurkacz;765 64;765;64;;7;11;19;10
+Nick Kyrgios;Jannik Sinner;(W/O);(W/O);;;132;10;19;11
+Cameron Norrie;Jenson Brooksby;62 64;62;64;;12;43;19;12
+Carlos Alcaraz;Gael Monfils;75 61;75;61;;19;28;19;13
+Taylor Fritz;Alex de Minaur;36 64 765;36;64;765;20;31;19;14
+Grigor Dimitrov;John Isner;63 766;63;766;;35;23;19;15
+Gael Monfils;Daniil Medvedev;46 63 61;46;63;61;28;1;19;16
+Rafael Nadal;Daniel Evans;75 63;75;63;;4;29;19;17
+Jenson Brooksby;Stefanos Tsitsipas;16 63 62;16;63;62;43;5;19;18
+Matteo Berrettini;Lloyd Harris;64 75;64;75;;6;32;19;19
+Andrey Rublev;Frances Tiafoe;63 64;63;64;;7;30;19;20
+Nick Kyrgios;Casper Ruud;64 64;64;64;;132;8;19;21
+Jannik Sinner;Benjamin Bonzi;765 36 64;765;36;64;10;62;19;22
+Hubert Hurkacz;Steve Johnson;767 63;767;63;;11;115;19;23
+Cameron Norrie;Nikoloz Basilashvili;36 63 61;36;63;61;12;18;19;24
+Reilly Opelka;Denis Shapovalov;674 64 64;674;64;64;17;13;19;25
+John Isner;Diego Schwartzman;75 63;75;63;;23;14;19;26
+Carlos Alcaraz;Roberto Bautista Agut;62 60;62;60;;19;15;19;27
+Taylor Fritz;Jaume Munar;64 26 762;64;26;762;20;99;19;28
+Alex de Minaur;Tommy Paul;762 64;762;64;;31;39;19;29
+Grigor Dimitrov;Alexander Bublik;63 64;63;64;;35;33;19;30
+Miomir Kecmanovic;Botic van de Zandschulp;763 75;763;75;;61;47;19;31
+Daniil Medvedev;Tomas Machac;63 62;63;62;;1;158;19;32
+Tommy Paul;Alexander Zverev;62 46 762;62;46;762;39;3;19;33
+Rafael Nadal;Sebastian Korda;62 16 763;62;16;763;4;38;19;34
+Stefanos Tsitsipas;Jack Sock;765 36 765;765;36;765;5;147;19;35
+Matteo Berrettini;Holger Rune;63 46 64;63;46;64;6;86;19;36
+Andrey Rublev;Dominik Koepfer;75 64;75;64;;7;51;19;37
+Casper Ruud;Christopher Eubanks;765 62;765;62;;8;157;19;38
+Botic van de Zandschulp;Felix Auger-Aliassime;764 674 63;764;674;63;47;9;19;39
+Jannik Sinner;Laslo Djere;63 63;63;63;;10;52;19;40
+Hubert Hurkacz;Oscar Otte;63 36 63;63;36;63;11;76;19;41
+Cameron Norrie;Pedro Martinez;63 63;63;63;;12;49;19;42
+Denis Shapovalov;Alejandro Davidovich Fokina;46 64 62;46;64;62;13;45;19;43
+Diego Schwartzman;Emil Ruusuvuori;57 63 63;57;63;63;14;70;19;44
+Roberto Bautista Agut;J.J. Wolf;63 673 765;63;673;765;15;209;19;45
+Jaume Munar;Pablo Carreno Busta;46 64 764;46;64;764;99;16;19;46
+Reilly Opelka;Lorenzo Musetti;61 64;61;64;;17;56;19;47
+Nikoloz Basilashvili;Fabio Fognini;(W/O);(W/O);;;18;36;19;48
+Carlos Alcaraz;Mackenzie McDonald;63 63;63;63;;19;59;19;49
+Taylor Fritz;Kamil Majchrzak;61 61;61;61;;20;75;19;50
+Benjamin Bonzi;Lorenzo Sonego;63 64;63;64;;62;21;19;51
+Steve Johnson;Aslan Karatsev;765 64;765;64;;115;22;19;52
+John Isner;Sam Querrey;766 762;766;762;;23;114;19;53
+Miomir Kecmanovic;Marin Cilic;677 63 766;677;63;766;61;24;19;54
+Jenson Brooksby;Karen Khachanov;60 63;60;63;;43;26;19;55
+Gael Monfils;Filip Krajinovic;63 64;63;64;;28;40;19;56
+Daniel Evans;Federico Coria;62 60;62;60;;29;65;19;57
+Frances Tiafoe;Brandon Nakashima;64 64;64;64;;30;80;19;58
+Alex de Minaur;John Millman;764 63;764;63;;31;77;19;59
+Lloyd Harris;Facundo Bagnis;63 46 63;63;46;63;32;82;19;60
+Alexander Bublik;Andy Murray;769 63;769;63;;33;88;19;61
+Nick Kyrgios;Federico Delbonis;62 62;62;62;;132;34;19;62
+Grigor Dimitrov;Jordan Thompson;763 62;763;62;;35;78;19;63
+Facundo Bagnis;Henri Laaksonen;63 764;63;764;;82;87;19;64
+Benjamin Bonzi;Arthur Rinderknech;63 75;63;75;;62;57;19;65
+Jenson Brooksby;Roberto Carballes Baena;61 64;61;64;;43;73;19;66
+Federico Coria;Pablo Cuevas;64 765;64;765;;65;104;19;67
+Alejandro Davidovich Fokina;Borna Coric;675 60 75;675;60;75;45;167;19;68
+Laslo Djere;Soonwoo Kwon;26 63 64;26;63;64;52;64;19;69
+Christopher Eubanks;Maxime Cressy;57 768 64;57;768;64;157;72;19;70
+Fabio Fognini;Pablo Andujar;36 63 63;36;63;63;36;69;19;71
+Steve Johnson;Daniel Altmaier;63 763;63;763;;115;79;19;72
+Miomir Kecmanovic;Liam Broady;64 46 64;64;46;64;61;124;19;73
+Dominik Koepfer;Benoit Paire;26 75 64;26;75;64;51;53;19;74
+Sebastian Korda;Thanasi Kokkinakis;63 64;63;64;;38;97;19;75
+Filip Krajinovic;Dusan Lajovic;75 46 61;75;46;61;40;44;19;76
+Nick Kyrgios;Sebastian Baez;64 60;64;60;;132;60;19;77
+Tomas Machac;Alexei Popyrin;63 75;63;75;;158;89;19;78
+Kamil Majchrzak;Aljaz Bedene;61 75;61;75;;75;133;19;79
+Pedro Martinez;Joao Sousa;64 75;64;75;;49;85;19;80
+Mackenzie McDonald;Marton Fucsovics;7611 75;7611;75;;59;48;19;81
+John Millman;Jan-Lennard Struff;766 64;766;64;;77;58;19;82
+Jaume Munar;Juncheng Shang;63 64;63;64;;99;543;19;83
+Andy Murray;Taro Daniel;16 62 64;16;62;64;88;106;19;84
+Lorenzo Musetti;Marcos Giron;63 75;63;75;;56;55;19;85
+Brandon Nakashima;Adrian Mannarino;62 764;62;764;;80;66;19;86
+Oscar Otte;Richard Gasquet;62 16 63;62;16;63;76;81;19;87
+Tommy Paul;Mikhail Kukushkin;64 64;64;64;;39;154;19;88
+Sam Querrey;Tallon Griekspoor;673 62 64;673;62;64;114;54;19;89
+Holger Rune;Ugo Humbert;63 62;63;62;;86;42;19;90
+Emil Ruusuvuori;Philipp Kohlschreiber;63 63;63;63;;70;136;19;91
+Jack Sock;Juan Manuel Cerundolo;61 61;61;61;;147;119;19;92
+Jordan Thompson;David Goffin;46 75 763;46;75;763;78;71;19;93
+Botic van de Zandschulp;Tennys Sandgren;64 62;64;62;;47;153;19;94
+J.J. Wolf;Hugo Gaston;75 64;75;64;;209;68;19;95
+Tennys Sandgren;John Millman;673 768 765;673;768;765;153;77;19;96
+Christopher Eubanks;Joao Sousa;764 764;764;764;;157;85;19;97
+Holger Rune;Stefan Kozlov;64 62;64;62;;86;121;19;98
+Mikhail Kukushkin;Yoshihito Nishioka;62 764;62;764;;154;93;19;99
+Thanasi Kokkinakis;Vasek Pospisil;765 75;765;75;;97;129;19;100
+Jaume Munar;Aleksandar Vukic;63 62;63;62;;99;125;19;101
+Philipp Kohlschreiber;Denis Kudla;06 63 63;06;63;63;136;102;19;102
+J.J. Wolf;Daniel Elahi Galan;763 62;763;62;;209;103;19;103
+Taro Daniel;Daniel Masur;64 62;64;62;;106;176;19;104
+Liam Broady;Christopher O'Connell;767 60;767;60;;124;149;19;105
+Juncheng Shang;Mats Moraing;63 (RET);63;(RET);;543;128;19;106
+Tomas Machac;Illya Marchenko;57 63 63;57;63;63;158;214;19;107
+John Millman;Brandon Holt;64 60;64;60;;77;530;19;108
+Joao Sousa;Max Purcell;57 765 764;57;765;764;85;163;19;109
+Holger Rune;Mitchell Krueger;64 36 63;64;36;63;86;164;19;110
+Christopher O'Connell;Kevin Anderson;36 62 62;36;62;62;149;90;19;111
+Illya Marchenko;Marco Cecchinato;61 62;61;62;;214;92;19;112
+Yoshihito Nishioka;Hugo Grenier;61 36 64;61;36;64;93;152;19;113
+Thanasi Kokkinakis;Thomas Fabbiano;63 64;63;64;;97;174;19;114
+Jaume Munar;Bruno Kuzuhara;61 64;61;64;;99;1088;19;115
+Juncheng Shang;Francisco Cerundolo;764 64;764;64;;543;100;19;116
+Denis Kudla;Chun-hsin Tseng;61 64;61;64;;102;159;19;117
+Daniel Elahi Galan;Dmitry Popko;64 75;64;75;;103;166;19;118
+Taro Daniel;Emilio Nava;75 75;75;75;;106;309;19;119
+Christopher Eubanks;Feliciano Lopez;46 63 75;46;63;75;157;112;19;120
+Tomas Machac;Radu Albot;64 75;64;75;;158;120;19;121
+Stefan Kozlov;Sebastian Sec;63 674 62;63;674;62;121;0;19;122
+Mikhail Kukushkin;Andreas Seppi;62 64;62;64;;154;122;19;123
+Liam Broady;Ramkumar Ramanathan;62 36 64;62;36;64;124;170;19;124
+Aleksandar Vukic;Salvatore Caruso;62 62;62;62;;125;151;19;125
+Mats Moraing;Yannick Maden;54 (RET);54;(RET);;128;406;19;126
+Vasek Pospisil;Egor Gerasimov;46 64 64;46;64;64;129;148;19;127
+Daniel Masur;Elias Ymer;64 75;64;75;;176;131;19;128
+Philipp Kohlschreiber;Alex Bolt;26 64 64;26;64;64;136;188;19;129
+J.J. Wolf;Emilio Gomez;61 63;61;63;;209;141;19;130
+Tennys Sandgren;Bjorn Fratangelo;46 64 62;46;64;62;153;144;19;131

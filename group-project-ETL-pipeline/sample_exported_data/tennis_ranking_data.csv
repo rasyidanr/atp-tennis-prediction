@@ -1,0 +1,2001 @@
+player,rank,age,player_point,tournament_played,next_best
+Daniil Medvedev,1,26,"8,615",23,0
+Novak Djokovic,2,34,"8,465",13,0
+Alexander Zverev,3,24,"7,515",24,10
+Rafael Nadal,4,35,"6,515",11,0
+Stefanos Tsitsipas,5,23,"6,325",27,45
+Matteo Berrettini,6,25,"4,928",22,5
+Andrey Rublev,7,24,"4,590",28,90
+Casper Ruud,8,23,"3,915",31,90
+Felix Auger-Aliassime,9,21,"3,883",25,45
+Jannik Sinner,10,20,"3,495",38,44
+Hubert Hurkacz,11,25,"3,468",28,10
+Cameron Norrie,12,26,"3,305",29,45
+Denis Shapovalov,13,22,"3,020",27,46
+Diego Schwartzman,14,29,"2,660",26,0
+Roberto Bautista Agut,15,33,"2,480",28,90
+Pablo Carreno Busta,16,30,"2,220",24,0
+Reilly Opelka,17,24,"2,156",28,0
+Nikoloz Basilashvili,18,30,"2,121",33,10
+Carlos Alcaraz,19,18,"2,056",22,0
+Taylor Fritz,20,24,"2,010",32,80
+Lorenzo Sonego,21,26,"1,937",34,10
+Aslan Karatsev,22,28,"1,933",39,30
+John Isner,23,36,"1,801",18,0
+Marin Cilic,24,33,"1,785",25,0
+Cristian Garin,25,25,"1,716",28,10
+Karen Khachanov,26,25,"1,680",30,46
+Roger Federer,27,40,"1,665",8,0
+Gael Monfils,28,35,"1,633",23,0
+Daniel Evans,29,31,"1,542",33,0
+Frances Tiafoe,30,24,"1,463",27,20
+Alex de Minaur,31,23,"1,451",28,0
+Lloyd Harris,32,25,"1,393",31,10
+Alexander Bublik,33,24,"1,391",38,0
+Federico Delbonis,34,31,"1,382",34,10
+Grigor Dimitrov,35,30,"1,381",24,0
+Fabio Fognini,36,34,"1,359",28,10
+Albert Ramos-Vinolas,37,34,"1,314",38,0
+Sebastian Korda,38,21,"1,289",32,3
+Tommy Paul,39,24,"1,252",34,0
+Filip Krajinovic,40,30,"1,212",30,20
+Ilya Ivashka,41,28,"1,179",28,0
+Ugo Humbert,42,23,"1,178",30,10
+Jenson Brooksby,43,21,"1,153",25,4
+Dusan Lajovic,44,31,"1,126",33,10
+Alejandro Davidovich Fokina,45,22,"1,115",33,20
+Kei Nishikori,46,32,"1,110",17,0
+Botic van de Zandschulp,47,26,"1,096",35,10
+Marton Fucsovics,48,30,"1,082",31,30
+Pedro Martinez,49,24,"1,072",41,0
+Dominic Thiem,50,28,"1,070",13,0
+Dominik Koepfer,51,27,"1,054",34,10
+Laslo Djere,52,26,"1,041",34,20
+Benoit Paire,53,32,"1,040",41,0
+Tallon Griekspoor,54,25,"1,024",37,16
+Marcos Giron,55,28,"1,001",29,0
+Lorenzo Musetti,56,20,"1,000",41,4
+Arthur Rinderknech,57,26,986,44,8
+Jan-Lennard Struff,58,31,984,29,0
+Mackenzie McDonald,59,26,976,33,10
+Sebastian Baez,60,21,965,36,11
+Miomir Kecmanovic,61,22,921,32,10
+Benjamin Bonzi,62,25,909,41,13
+James Duckworth,63,30,906,32,0
+Soonwoo Kwon,64,24,906,32,0
+Federico Coria,65,29,906,44,10
+Adrian Mannarino,66,33,904,35,0
+Alex Molcan,67,24,903,39,8
+Hugo Gaston,68,21,887,37,8
+Pablo Andujar,69,36,885,31,10
+Emil Ruusuvuori,70,22,876,40,20
+David Goffin,71,31,861,25,0
+Maxime Cressy,72,24,852,36,0
+Roberto Carballes Baena,73,28,836,42,16
+Jiri Vesely,74,28,825,40,0
+Kamil Majchrzak,75,26,823,31,0
+Oscar Otte,76,28,818,40,0
+John Millman,77,32,818,37,10
+Jordan Thompson,78,27,800,33,0
+Daniel Altmaier,79,23,797,46,0
+Brandon Nakashima,80,20,793,22,0
+Richard Gasquet,81,35,782,28,0
+Facundo Bagnis,82,32,781,35,10
+Mikael Ymer,83,23,773,31,0
+Ricardas Berankis,84,31,771,28,8
+Joao Sousa,85,32,762,36,0
+Holger Rune,86,18,750,38,10
+Henri Laaksonen,87,29,741,31,0
+Andy Murray,88,34,733,20,0
+Alexei Popyrin,89,22,721,31,6
+Kevin Anderson,90,35,719,22,0
+Jiri Lehecka,91,20,712,42,7
+Marco Cecchinato,92,29,711,30,0
+Yoshihito Nishioka,93,26,705,32,0
+Peter Gojowczyk,94,32,703,29,0
+Gianluca Mager,95,27,703,38,0
+Alejandro Tabilo,96,24,691,41,7
+Thanasi Kokkinakis,97,25,681,24,0
+Guido Pella,98,31,676,23,0
+Jaume Munar,99,24,675,38,0
+Francisco Cerundolo,100,23,668,40,0
+Hugo Dellien,101,28,648,40,12
+Denis Kudla,102,29,644,35,10
+Daniel Elahi Galan,103,25,636,36,6
+Pablo Cuevas,104,36,635,26,0
+Carlos Taberner,105,24,633,35,0
+Taro Daniel,106,29,625,35,0
+Yannick Hanfmann,107,30,625,34,0
+Corentin Moutet,108,22,620,27,0
+Norbert Gombos,109,31,618,36,0
+Stefano Travaglia,110,30,614,45,0
+Pierre-Hugues Herbert,111,30,611,31,10
+Feliciano Lopez,112,40,603,28,0
+Quentin Halys,113,25,602,40,0
+Sam Querrey,114,34,595,19,0
+Steve Johnson,115,32,594,29,0
+Thiago Monteiro,116,27,593,36,0
+Juan Pablo Varillas,117,26,592,39,14
+Bernabe Zapata Miralles,118,25,566,38,16
+Juan Manuel Cerundolo,119,20,561,38,3
+Radu Albot,120,32,559,35,0
+Stefan Kozlov,121,24,558,29,3
+Andreas Seppi,122,38,542,33,10
+Tomas Martin Etcheverry,123,22,537,45,0
+Liam Broady,124,28,528,39,8
+Aleksandar Vukic,125,25,526,43,0
+Nikola Milojevic,126,26,526,34,0
+Andrej Martin,127,32,520,46,8
+Mats Moraing,128,29,519,41,4
+Vasek Pospisil,129,31,501,24,0
+Juan Ignacio Londero,130,28,496,30,0
+Elias Ymer,131,25,496,37,0
+Nick Kyrgios,132,26,493,10,0
+Aljaz Bedene,133,32,485,17,0
+Lucas Pouille,134,28,482,32,5
+Ernesto Escobedo,135,25,480,32,0
+Philipp Kohlschreiber,136,38,478,17,0
+Damir Dzumhur,137,29,466,37,0
+Zdenek Kolar,138,25,466,47,0
+Gilles Simon,139,37,462,34,0
+Dennis Novak,140,28,461,36,0
+Emilio Gomez,141,30,459,41,7
+Nicolas Jarry,142,26,457,33,0
+Roman Safiullin,143,24,453,39,4
+Bjorn Fratangelo,144,28,446,29,4
+Tomas Barrios Vera,145,24,446,34,4
+Jack Draper,146,20,440,26,1
+Jack Sock,147,29,429,20,0
+Egor Gerasimov,148,29,422,36,10
+Christopher O'Connell,149,27,420,35,10
+Fernando Verdasco,150,38,415,32,0
+Salvatore Caruso,151,29,408,35,7
+Hugo Grenier,152,25,408,45,5
+Tennys Sandgren,153,30,396,34,0
+Mikhail Kukushkin,154,34,386,29,5
+Dominic Stricker,155,19,386,21,0
+Milos Raonic,156,31,384,10,0
+Christopher Eubanks,157,25,380,32,8
+Tomas Machac,158,21,379,31,0
+Chun-hsin Tseng,159,20,379,39,0
+Jeremy Chardy,160,35,378,19,0
+Nuno Borges,161,25,372,28,0
+Altug Celikbilek,162,25,366,37,6
+Max Purcell,163,23,365,27,2
+Mitchell Krueger,164,28,365,36,0
+Vit Kopriva,165,24,352,46,0
+Dmitry Popko,166,25,351,39,5
+Borna Coric,167,25,349,11,0
+Pavel Kotov,168,23,349,39,8
+Franco Agamenone,169,28,348,31,2
+Ramkumar Ramanathan,170,27,348,38,7
+Jay Clarke,171,23,347,40,0
+Gregoire Barrere,172,28,346,28,0
+Mario Vilella Martinez,173,26,342,28,0
+Thomas Fabbiano,174,32,341,35,0
+Camilo Ugo Carabelli,175,22,341,39,4
+Daniel Masur,176,27,338,33,0
+Flavio Cobolli,177,19,338,28,0
+Blaz Rola,178,31,337,35,8
+Marc-Andrea Huesler,179,25,333,41,3
+Tim Van Rijthoven,180,24,331,41,0
+Enzo Couacaud,181,27,330,37,0
+Zizou Bergs,182,22,330,34,3
+Facundo Mena,183,29,327,40,0
+Gian Marco Moroni,184,24,327,41,0
+Federico Gaio,185,30,325,45,8
+Alessandro Giannessi,186,31,317,30,4
+Kacper Zuk,187,23,314,34,2
+Alex Bolt,188,29,313,24,0
+Jesper De Jong,189,21,312,41,1
+Cem Ilkel,190,26,311,35,0
+Jozef Kovalik,191,29,311,29,0
+Jurij Rodionov,192,22,310,37,0
+Dimitar Kuzmanov,193,28,307,31,0
+Maximilian Marterer,194,26,300,30,0
+Marc Polmans,195,24,299,40,4
+Nicolas Kicker,196,29,297,25,6
+Marco Trungelliti,197,32,296,22,0
+Constant Lestienne,198,29,291,29,4
+Manuel Guinard,199,26,290,46,0
+Filip Horansky,200,29,289,36,0
+Andrea Pellegrino,201,24,288,39,0
+Gastao Elias,202,31,285,31,0
+Evgeny Donskoy,203,31,284,34,4
+Lukas Lacko,204,34,279,24,0
+Thiago Agustin Tirante,205,20,276,29,0
+Felipe Meligeni Rodrigues Alves,206,24,276,39,6
+Lorenzo Giustino,207,30,275,48,6
+Jason Kubler,208,28,275,24,0
+J.J. Wolf,209,23,274,20,0
+Alexandre Muller,210,25,274,41,0
+Sebastian Ofner,211,25,270,31,4
+Mirza Basic,212,30,270,33,3
+Thiago Seyboth Wild,213,21,267,38,4
+Illya Marchenko,214,34,267,31,7
+Jo-Wilfried Tsonga,215,36,265,20,0
+Antoine Hoang,216,26,262,35,0
+Renzo Olivo,217,29,260,47,2
+Cedrik-Marcel Stebe,218,31,260,24,0
+Nino Serdarusic,219,25,260,50,4
+Vitaliy Sachko,220,24,258,41,2
+Timofey Skatov,221,21,257,41,2
+Brayden Schnur,222,26,256,35,14
+Jason Jung,223,32,253,33,0
+Juan Pablo Ficovich,224,25,252,38,0
+Pedro Cachin,225,26,252,40,4
+Santiago Fa Rodriguez Taverna,226,22,251,42,0
+Alexander Ritschard,227,27,243,34,2
+Sergiy Stakhovsky,228,36,242,29,3
+Yuichi Sugita,229,33,241,22,0
+Andrey Kuznetsov,230,31,240,21,0
+Borna Gojo,231,24,239,31,0
+Mathias Bourgue,232,28,238,26,0
+Stan Wawrinka,233,36,237,11,0
+Yasutaka Uchiyama,234,29,233,35,0
+Ryan Peniston,235,26,233,33,0
+Maxime Janvier,236,25,232,46,0
+Giulio Zeppieri,237,20,231,31,0
+Kimmer Coppejans,238,28,231,39,14
+Sumit Nagal,239,24,228,29,0
+Zsombor Piros,240,22,228,31,2
+Matheus Pucinelli De Almeida,241,20,228,34,3
+Andrea Collarini,242,30,227,45,0
+Frederico Ferreira Silva,243,26,225,37,4
+Michael Mmoh,244,24,224,21,0
+Andrea Arnaboldi,245,34,224,43,3
+Attila Balazs,246,33,223,16,0
+Geoffrey Blancaneaux,247,23,222,41,3
+Nicola Kuhn,248,21,220,33,0
+Matthias Bachinger,249,34,217,25,0
+Pedro Sousa,250,33,216,26,0
+Kaichi Uchida,251,27,216,44,2
+Joao Menezes,252,25,215,30,5
+Antoine Escoffier,253,30,215,43,0
+Robin Haase,254,34,213,28,0
+Guido Andreozzi,255,30,213,28,0
+Matthew Ebden,256,34,212,21,0
+Gonzalo Lama,257,28,210,26,2
+Duje Ajdukovic,258,21,209,33,1
+Kyle Edmund,259,27,206,11,0
+Marius Copil,260,31,204,26,0
+Hiroki Moriya,261,31,202,37,2
+Riccardo Bonadio,262,28,202,53,0
+Viktor Troicki,263,36,199,18,0
+Nicolas Mejia,264,22,198,38,2
+Igor Marcondes,265,24,197,24,0
+Evgeny Karlovskiy,266,27,197,36,5
+Yosuke Watanuki,267,23,196,29,2
+Lukas Klein,268,23,191,27,2
+Evgenii Tiurnev,269,24,190,32,0
+Goncalo Oliveira,270,27,188,55,0
+Andrea Vavassori,271,26,186,24,0
+Tung-Lin Wu,272,23,186,34,0
+Gerald Melzer,273,31,183,14,0
+Jelle Sels,274,26,181,41,1
+Go Soeda,275,37,180,29,0
+Luca Nardi,276,18,178,26,0
+Raul Brancaccio,277,24,178,43,0
+Prajnesh Gunneswaran,278,32,177,30,0
+Genaro Alberto Olivieri,279,23,176,38,0
+Nerman Fatic,280,27,174,34,0
+Orlando Luz,281,24,174,44,0
+Tobias Kamke,282,35,173,32,0
+Javier Barranco Cosano,283,23,173,44,0
+Alexander Shevchenko,284,21,172,36,0
+Arthur Cazaux,285,19,171,22,0
+Tristan Lamasine,286,29,171,37,4
+Filip Cristian Jianu,287,20,171,45,2
+Lukas Rosol,288,36,170,33,0
+Julian Lenz,289,29,170,40,0
+Denis Istomin,290,35,168,32,0
+Dalibor Svrcina,291,19,168,27,0
+Roberto Marcora,292,32,166,36,0
+Facundo Diaz Acosta,293,21,166,38,1
+Evan Furness,294,23,165,42,2
+Nicolas Moreno De Alboran,295,24,164,26,1
+Steven Diez,296,30,162,37,3
+Eduard Esteve Lobato,297,27,162,32,2
+Johan Nikles,298,24,162,35,0
+Aidan McHugh,299,21,162,39,4
+Nikolas Sanchez Izquierdo,300,22,162,47,1
+Marcel Granollers,301,35,161,12,0
+Malek Jaziri,302,38,161,32,0
+Ruben Bemelmans,303,34,159,32,0
+Nicolas Alvarez Varona,304,20,159,34,0
+Joao Domingues,305,28,158,31,0
+Mikael Torpegaard,306,27,157,29,0
+Paolo Lorenzi,307,40,156,28,0
+Zhizhen Zhang,308,25,155,26,0
+Emilio Nava,309,20,155,24,0
+Peter Polansky,310,33,154,31,0
+Jonas Forejtek,311,20,154,39,3
+Lucas Miedler,312,25,154,42,4
+Nick Hardt,313,21,151,40,2
+Hernan Casanova,314,28,150,42,3
+Thai-Son Kwiatkowski,315,27,149,27,0
+Alexey Vatutin,316,29,149,43,3
+Francesco Forti,317,22,148,39,0
+Paul Jubb,318,22,147,25,0
+Luciano Darderi,319,20,142,24,0
+Bernard Tomic,320,29,141,21,0
+Miljan Zekic,321,33,141,32,3
+Ernests Gulbis,322,33,140,25,0
+Viktor Durasovic,323,24,140,38,2
+Benjamin Hassan,324,27,139,28,0
+Kyrian Jacquet,325,20,139,30,1
+Dragos Nicolae Madaras,326,24,139,38,2
+Pedja Krstin,327,27,136,37,0
+Alexis Galarneau,328,23,135,24,0
+Tatsuma Ito,329,33,134,22,0
+Oriol Roca Batalla,330,28,134,43,6
+Yu Hsiou Hsu,331,22,134,43,6
+Leonardo Mayer,332,34,133,13,0
+Daniel Dutra da Silva,333,33,133,34,0
+Denis Yevseyev,334,28,132,43,4
+Filip Misolic,335,20,130,19,0
+Ivo Karlovic,336,43,129,14,0
+Rinky Hijikata,337,21,129,31,0
+Michael Geerts,338,27,128,36,0
+Gijs Brouwer,339,25,128,42,4
+Matteo Viola,340,34,128,43,4
+Daniel Michalski,341,22,127,38,0
+Nicolas Alvarez,342,25,126,32,1
+Matteo Martineau,343,23,126,37,4
+Martin Klizan,344,32,124,13,0
+Calvin Hemery,345,27,124,26,1
+Laurent Lokoli,346,27,124,28,1
+Akira Santillan,347,24,122,24,0
+Francisco Comesana,348,21,122,30,0
+Sebastian Fanselow,349,30,122,31,2
+Louis Wessels,350,23,122,35,0
+Yshai Oliel,351,22,122,36,0
+Adrian Menendez-Maceiras,352,36,120,28,0
+Mohamed Safwat,353,31,120,36,0
+Danilo Petrovic,354,30,119,27,0
+Matteo Arnaldi,355,21,119,29,0
+Alastair Gray,356,23,118,18,0
+Christian Harrison,357,27,116,17,0
+Roberto Cid Subervi,358,28,116,37,0
+Facundo Juarez,359,24,116,39,0
+Dustin Brown,360,37,115,17,0
+Alexis Gautier,361,24,115,30,1
+Ergi Kirkin,362,23,114,37,1
+Tommy Robredo,363,39,113,16,0
+Fabian Marozsan,364,22,113,37,1
+Yunseong Chung,365,23,112,29,4
+Dudi Sela,366,36,111,11,0
+Aleksandar Kovacevic,367,23,110,18,0
+Alex Rybakov,368,25,110,28,2
+Mukund Sasikumar,369,25,110,40,4
+Alvaro Lopez San Martin,370,24,109,23,0
+Alexander Erler,371,24,109,33,0
+Aldin Setkic,372,34,109,42,0
+Rudolf Molleker,373,21,108,28,0
+Dan Added,374,22,108,43,2
+Zachary Svajda,375,19,107,17,0
+Shintaro Mochizuki,376,18,107,26,0
+Duckhee Lee,377,23,107,34,0
+Pedro Sakamoto,378,28,107,35,1
+Darian King,379,29,106,16,0
+Ulises Blanch,380,23,106,23,0
+Teymuraz Gabashvili,381,36,106,37,0
+David Poljak,382,25,106,43,0
+Roberto Quiroz,383,30,106,44,3
+Bradley Klahn,384,31,105,12,0
+Gabriel Decamps,385,22,105,16,0
+Luca Van Assche,386,17,105,18,0
+Aziz Dougaz,387,24,105,36,0
+Filip Peliwo,388,28,104,35,0
+Juan Bautista Torres,389,19,103,24,0
+Lucas Gerch,390,27,103,39,1
+Skander Mansouri,391,26,103,40,0
+Filippo Baldi,392,26,102,28,0
+Michael Vrbensky,393,22,102,35,1
+Oliver Crawford,394,22,101,28,1
+Gonzalo Villanueva,395,27,101,41,2
+Mats Rosenkranz,396,23,101,50,1
+Martin Cuevas,397,30,100,24,0
+Nicholas David Ionel,398,19,100,36,0
+Pol Martin Tiffon,399,22,100,43,1
+JC Aragone,400,26,99,34,0
+Uladzimir Ignatik,401,31,99,39,2
+Gilbert Klier Junior,402,21,98,35,1
+Michail Pervolarakis,403,25,98,37,2
+Henri Squire,404,21,97,21,0
+Igor Sijsling,405,34,96,25,0
+Yannick Maden,406,32,96,26,0
+Dane Sweeny,407,21,96,31,1
+Alexandar Lazarov,408,24,96,35,2
+Lucas Catarina,409,25,96,41,2
+Otto Virtanen,410,20,94,23,0
+Adrian Andreev,411,20,94,25,0
+Stefano Napolitano,412,26,94,27,0
+Elliot Benchetrit,413,23,94,30,0
+Giovanni Fonio,414,23,94,34,1
+Peter Heller,415,29,93,37,7
+Yanki Erel,416,21,92,24,1
+Oleksii Krutykh,417,21,92,31,2
+Georgii Kravchenko,418,21,92,33,1
+Yan Bondarevskiy,419,21,92,38,0
+Yan Bai,420,32,91,15,0
+Hady Habib,421,23,91,24,0
+Christopher Heyman,422,28,91,34,0
+Elmar Ejupovic,423,29,90,30,2
+Cristian Rodriguez,424,31,90,32,0
+Sandro Ehrat,425,30,89,23,1
+Khumoyun Sultanov,426,23,89,30,0
+Sho Shimabukuro,427,24,88,27,1
+Edoardo Lavagno,428,23,87,24,0
+Billy Harris,429,27,87,25,0
+Marek Gengel,430,26,87,41,1
+Blaz Kavcic,431,35,85,8,0
+Govind Nanda,432,21,84,12,0
+Gustavo Heide,433,20,84,19,0
+Mate Valkusz,434,23,84,20,0
+Marvin Moeller,435,23,84,25,0
+Carlos Gomez-Herrera,436,31,84,30,2
+Matias Zukas,437,25,84,38,1
+Zane Khan,438,20,83,12,0
+Jakub Paul,439,22,83,34,0
+Matthieu Perchicot,440,29,83,45,1
+Roberto Ortega-Olmedo,441,30,83,45,2
+Mischa Zverev,442,34,82,20,0
+Dayne Kelly,443,31,82,22,0
+Jonathan Mridha,444,26,82,30,1
+Antoine Bellier,445,25,82,35,1
+Ivan Nedelko,446,35,82,39,1
+Jose Fco. Vidal Azorin,447,28,82,46,1
+Jeroen Vanneste,448,28,81,33,1
+Nick Chappell,449,29,81,40,0
+Harold Mayot,450,20,80,22,0
+Alejandro Gonzalez,451,33,80,37,2
+Mateus Alves,452,21,80,38,1
+Andrew Harris,453,28,79,16,0
+Shintaro Imai,454,28,79,31,1
+Juan Pablo Paz,455,27,79,38,0
+Corentin Denolly,456,24,79,42,2
+Rio Noguchi,457,23,79,46,3
+Carlos Gimeno Valero,458,20,78,15,0
+Anton Matusevich,459,20,78,20,0
+JiSung Nam,460,28,78,23,0
+Viktor Galovic,461,31,78,24,0
+Ivan Gakhov,462,25,78,40,2
+Oscar Jose Gutierrez,463,28,78,43,0
+Markus Eriksson,464,32,77,34,0
+Christian Langmo,465,25,77,42,0
+Shuichi Sekiguchi,466,30,76,21,0
+Moez Echargui,467,29,76,32,0
+Damien Wenger,468,21,76,32,1
+Titouan Droguet,469,20,75,22,0
+Valentin Vacherot,470,23,75,24,0
+Jacopo Berrettini,471,23,75,33,0
+Bogdan Bobrov,472,24,75,43,2
+Janko Tipsarevic,473,37,74,8,0
+Nicolas Barrientos,474,34,74,15,0
+Renta Tokuda,475,23,74,24,0
+Donald Young,476,32,73,22,0
+Alexander Weis,477,24,73,43,0
+Hyeon Chung,478,25,71,4,0
+Pawel Cias,479,28,71,20,0
+Tiago Cacao,480,24,71,44,1
+Alejandro Moro Canas,481,21,70,14,0
+Arthur Fils,482,17,70,20,0
+Matias Franco Descotte,483,27,70,31,0
+Nicolas Mahut,484,40,69,6,0
+Petros Chrysochos,485,25,69,20,0
+Guy Den Ouden,486,19,69,20,0
+Noah Rubin,487,26,68,21,0
+Keegan Smith,488,23,68,13,0
+Francesco Passaro,489,21,68,26,0
+Alessandro Bega,490,31,68,34,1
+Guillermo Garcia-Lopez,491,38,67,15,0
+Li Tu,492,25,66,11,0
+Maximilian Neuchrist,493,30,66,29,0
+Ben Patael,494,24,66,32,0
+Vladyslav Orlov,495,26,66,36,0
+Alibek Kachmazov,496,19,65,21,0
+Luca Potenza,497,21,65,27,0
+Vasil Kirkov,498,22,65,28,2
+Bastian Malla,499,25,65,29,1
+Omni Kumar,500,20,64,35,2
+Kenny De Schepper,501,34,64,37,0
+Carlos Sanchez Jover,502,21,64,42,2
+Jose Hernandez-Fernandez,503,31,63,17,0
+Naoki Nakagawa,504,25,63,19,0
+Baptiste Crepatte,505,27,63,27,0
+Edan Leshem,506,24,63,33,2
+Tak Khunn Wang,507,30,62,24,0
+Sanjar Fayziev,508,27,62,34,2
+Oleg Prihodko,509,24,62,37,0
+Riccardo Balzerani,510,23,62,39,1
+Clement Chidekh,511,21,61,7,0
+Sam Riffice,512,23,61,8,0
+Murkel Dellien,513,24,61,18,0
+Pedro Boscardin Dias,514,19,61,23,0
+Pablo Llamas Ruiz,515,19,61,23,0
+Yuta Shimizu,516,22,61,27,1
+Eric Vanshelboim,517,20,61,29,3
+Benjamin Lock,518,29,61,43,1
+Tobias Simon,519,30,61,44,2
+Andrey Chepelev,520,23,61,49,0
+John-Patrick Smith,521,33,60,11,0
+Ryan Harrison,522,29,60,14,0
+Johannes Haerteis,523,26,60,30,0
+Clement Tabur,524,22,60,32,1
+Bogdan Ionut Apostol,525,26,60,34,1
+Timo Stodder,526,25,59,20,0
+Jose Pereira,527,31,59,20,0
+Alejandro Gomez,528,30,59,29,0
+Pol Toledo Bague,529,27,59,39,3
+Brandon Holt,530,23,58,12,0
+Felix Gill,531,19,58,21,0
+Quentin Folliot,532,23,58,31,0
+Arthur De Greef,533,29,57,10,0
+Liam Draxl,534,20,57,21,0
+Stuart Parker,535,24,57,22,0
+Konstantin Kravchuk,536,37,57,25,0
+Jeremy Jahn,537,31,57,26,0
+Julian Ocleppo,538,24,57,27,0
+Roy Smith,539,23,57,30,0
+Gergely Madarasz,540,27,57,30,0
+Adam Pavlasek,541,27,57,31,0
+David Pichler,542,26,57,37,2
+Juncheng Shang,543,17,56,10,0
+Jan Choinski,544,25,56,12,0
+Valentin Royer,545,20,56,23,0
+Roman Andres Burruchaga,546,20,56,24,0
+Gage Brymer,547,27,56,44,0
+Sadio Doumbia,548,31,55,21,0
+Lukas Neumayer,549,19,55,24,0
+Mariano Navone,550,21,55,31,1
+Ben Shelton,551,19,54,8,0
+Peter Torebko,552,34,54,19,0
+Maxime Chazal,553,28,54,26,0
+Alex Hernandez,554,22,54,28,0
+Mattia Bellucci,555,20,54,29,0
+Ugo Blanchet,556,23,54,30,0
+Jaimee Floyd Angele,557,21,54,30,0
+Patrick Kypson,558,22,53,11,0
+Federico Arnaboldi,559,21,53,20,0
+Cezar Cretu,560,20,53,22,0
+Andrew Paulson,561,20,53,25,0
+Peter Fajta,562,19,53,27,0
+Brydan Klein,563,32,52,16,0
+Seong-chan Hong,564,24,52,21,0
+Tim Handel,565,25,52,24,0
+Maxime Hamou,566,26,52,34,1
+Simone Roncalli,567,25,52,35,1
+Aleksandr Nedovyesov,568,35,51,16,0
+Charles Broom,569,23,51,17,0
+Jeremy Beale,570,27,51,20,0
+Jules Okala,571,24,51,21,0
+Alejo Lorenzo Lingua Lavallen,572,20,51,25,0
+Alex Marti Pujolras,573,23,51,33,0
+Zhe Li,574,35,50,14,0
+James Ward,575,35,50,15,0
+Agustin Velotti,576,29,50,15,0
+Kevin King,577,31,50,19,0
+Artem Dubrivnyy,578,23,50,24,0
+Simon Carr,579,22,50,28,0
+Pavel Nejedly,580,29,50,33,1
+Felix Corwin,581,25,50,38,1
+Joao Lucas Reis Da Silva,582,21,50,39,0
+Patrik Rikl,583,23,49,19,0
+Remy Bertola,584,23,49,21,0
+Sidharth Rawat,585,28,49,26,0
+Danylo Kalenichenko,586,28,49,30,0
+Yuki Bhambri,587,29,48,4,0
+Jurgen Briand,588,23,48,17,0
+Nam Hoang Ly,589,25,48,19,0
+Giovanni Mpetshi Perricard,590,18,48,21,0
+Marko Tepavac,591,27,48,22,0
+Lukas Krainer,592,21,48,28,0
+Strong Kirchheimer,593,26,48,36,1
+Eliakim Coulibaly,594,19,47,17,0
+Michael Redlicki,595,28,47,19,0
+Alberto Barroso Campos,596,25,47,23,0
+Beibit Zhukayev,597,21,47,23,0
+Gauthier Onclin,598,21,47,27,0
+Thomaz Bellucci,599,34,46,16,0
+Saketh Myneni,600,34,46,17,0
+Christian Lindell,601,30,46,20,0
+Jan Satral,602,31,46,21,0
+Kyle Seelig,603,24,46,22,0
+Diego Hidalgo,604,28,46,28,0
+Carlos Lopez Montagud,605,21,46,37,1
+Wilson Leite,606,30,46,44,0
+Yen-Hsun Lu,607,38,45,4,0
+John McNally,608,23,45,15,0
+Rafael Matos,609,26,45,19,0
+Evan King,610,29,45,20,0
+Stefan Palosi,611,22,45,24,0
+Alexander Donski,612,23,45,34,0
+Joris De Loore,613,28,44,9,0
+Matija Pecotic,614,32,44,12,0
+Alexander Sarkissian,615,31,44,16,0
+Daniel Gimeno-Traver,616,36,44,17,0
+Harry Bourchier,617,26,44,20,0
+Juan Sebastian Gomez,618,30,44,25,0
+Nicolae Frunza,619,24,44,28,0
+Yusuke Takahashi,620,24,44,34,1
+Andrea Basso,621,28,44,35,1
+Daniel Cox,622,31,43,9,0
+Rogerio Dutra Silva,623,38,43,9,0
+Jack Pinnington Jones,624,18,43,14,0
+Cannon Kingsley,625,20,43,17,0
+Leandro Riedi,626,20,43,20,0
+Alfredo Perez,627,24,43,21,0
+Daniele Capecchi,628,26,43,25,0
+Makoto Ochi,629,25,43,36,0
+Tsung-Hua Yang,630,30,42,17,0
+Alen Avidzba,631,22,42,23,0
+Federico Zeballos,632,33,42,27,0
+Luke Johnson,633,27,42,28,0
+Arthur Reymond,634,22,42,34,1
+Vaclav Safranek,635,27,41,23,0
+Yannick Mertens,636,34,41,32,1
+Mariano Kestelboim,637,26,41,35,1
+Kai Wehnelt,638,26,41,36,3
+Alexandru Jecan,639,33,41,36,1
+Facundo Arguello,640,29,40,12,0
+Fajing Sun,641,25,40,13,0
+Matteo Gigante,642,20,40,14,0
+Hamad Medjedovic,643,18,40,18,0
+Yuki Mochizuki,644,24,40,21,0
+Gerardo Lopez Villasenor,645,26,40,25,0
+Martin Krumich,646,19,40,28,0
+Imanol Lopez Morillo,647,22,40,31,0
+Conner Huertas del Pino,648,26,40,37,1
+Mick Veldheer,649,25,40,39,2
+Ze Zhang,650,31,39,14,0
+Miguel Damas,651,22,39,24,0
+Antoine Cornut-Chauvinc,652,21,39,24,0
+Tomas Lipovsek Puches,653,28,39,27,0
+Marco Brugnerotto,654,25,39,27,0
+Savriyan Danilov,655,21,39,31,0
+Thomas Fancutt,656,27,39,33,0
+Eliot Spizzirri,657,20,38,7,0
+Marcelo Arevalo,658,31,38,10,0
+Daniel Cukierman,659,26,38,17,0
+Sekou Bangoura,660,30,38,28,0
+Christoph Negritu,661,27,38,29,0
+Manish Sureshkumar,662,22,38,29,0
+Ezekiel Clark,663,23,38,29,0
+Evan Zhu,664,23,38,36,0
+Hugo Nys,665,31,37,7,0
+Andres Artunedo Martinavarro,666,28,37,15,0
+Tristan Schoolkate,667,21,37,20,0
+Arjun Kadhe,668,28,37,20,0
+Enrico Dalla Valle,669,23,37,22,0
+Martin Damm,670,18,37,26,0
+Colin Sinclair,671,27,37,33,0
+Alexander Cozbinov,672,26,37,34,0
+Steve Darcis,673,37,36,10,0
+Henry Patten,674,25,36,13,0
+Ryan James Storrie,675,24,36,16,0
+Illya Beloborodko,676,20,36,18,0
+Terence Atmane,677,20,36,28,0
+Ryota Tanuma,678,26,36,28,0
+Matthew Christopher Romios,679,22,36,32,0
+Harry Wendelken,680,20,35,18,0
+Luca Giacomini,681,24,35,24,0
+Aleksandre Metreveli,682,28,35,26,0
+Ryan Nijboer,683,22,35,36,0
+Lorenzo Bocchi,684,24,35,36,1
+Luca Castelnuovo,685,25,35,37,2
+Santiago Giraldo,686,34,34,8,0
+Johan Tatlot,687,25,34,20,0
+Peter Bertran,688,26,34,25,0
+Tim Smyczek,689,34,33,6,0
+Moerani Bouzige,690,22,33,9,0
+Karim-Mohamed Maamoun,691,30,33,23,0
+Dominik Palan,692,21,33,28,0
+Benjamin Winter Lopez,693,23,33,28,0
+Ignacio Carou,694,22,33,34,0
+Michel Vernier,695,29,33,37,0
+Davide Galoppini,696,27,33,41,0
+Arthur Fery,697,19,32,10,0
+Hazem Naw,698,22,32,14,0
+Francesco Maestrelli,699,19,32,18,0
+Tomas Farjat,700,21,32,21,0
+Samuel Vincent Ruggeri,701,19,32,24,0
+Rayane Roumane,702,21,32,26,0
+Jorge Panta,703,26,32,30,0
+Denis Klok,704,23,32,35,0
+Jean Thirouin,705,24,32,37,0
+Sascha Gueymard Wayenburg,706,18,31,12,0
+Duarte Vale,707,23,31,15,0
+Oscar Moraing,708,21,31,23,0
+Emiliano Maggioli,709,20,31,28,0
+Dominik Boehler,710,26,31,29,0
+Mark Whitehouse,711,28,31,31,0
+Cayetano March,712,21,31,37,0
+Alexis Musialek,713,33,31,40,1
+Marsel Ilhan,714,34,31,44,1
+James McCabe,715,18,30,7,0
+Gabi Adrian Boitan,716,22,30,7,0
+Lloyd Glasspool,717,28,30,12,0
+Jonathan Eysseric,718,31,30,13,0
+Luke Saville,719,28,30,14,0
+Jaroslav Pospisil,720,41,30,15,0
+Oleksandr Ovcharenko,721,20,30,22,0
+Ricardo Rodriguez - Pace,722,28,30,32,0
+Savva Polukhin,723,23,29,14,0
+John Echeverria,724,20,29,16,0
+Carlos Boluda-Purkiss,725,29,29,18,0
+Timo Legout,726,19,29,20,0
+Sebastian Gima,727,19,29,21,0
+Manuel Pena Lopez,728,24,29,21,0
+Federico Iannaccone,729,22,29,23,0
+Fabrizio Ornago,730,29,29,24,0
+Pietro Rondoni,731,28,29,25,0
+Matic Spec,732,27,29,28,0
+Arnaud Bovy,733,21,29,31,0
+Erik Crepaldi,734,31,29,32,1
+Luis Faria,735,22,29,37,0
+Fermin Tenti,736,24,29,45,0
+Juan Martin del Potro,737,33,28,3,0
+Eduardo Struvay,738,31,28,14,0
+Mateo Nicolas Martinez,739,28,28,18,0
+Quentin Robert,740,27,28,18,0
+Martins Podzus,741,27,28,20,0
+Toby Alex Kodat,742,19,28,20,0
+Guy Orly Iradukunda,743,25,28,25,0
+Lenny Hampel,744,25,28,25,0
+Arklon Huertas Del Pino Cordova,745,27,28,29,0
+Sandro Kopp,746,21,28,30,0
+Sebastian Prechtel,747,25,28,32,2
+Marco Miceli,748,23,28,34,0
+Michal Dembek,749,24,28,35,1
+Filip Bergevi,750,27,28,37,0
+Giovanni Oradini,751,24,27,13,0
+Gianmarco Ferrari,752,21,27,14,0
+Collin Altamirano,753,26,27,14,0
+Hanwen Li,754,19,27,16,0
+Jacob Grills,755,26,27,20,0
+Franco Emanuel Egea,756,26,27,23,0
+Jumpei Yamasaki,757,24,27,24,0
+Pedro Araujo,758,19,27,27,0
+Juan Ignacio Galarza,759,27,27,29,0
+Takuto Niki,760,34,27,32,0
+Dusty H. Boyer,761,28,27,36,0
+Lucas Poullain,762,26,26,9,0
+Ronald Slobodchikov,763,28,26,17,0
+Luis Patino,764,28,26,25,0
+Marvin Netuschil,765,30,26,25,0
+Kirill Kivattsev,766,24,26,26,0
+Robert Strombachs,767,22,26,37,0
+Naoki Tajima,768,21,26,38,0
+Grigoriy Lomakin,769,23,26,41,0
+Raymond Sarmiento,770,29,25,7,0
+Rubin Statham,771,34,25,7,0
+Inaki Montes-De La Torre,772,19,25,9,0
+Lilian Marmousez,773,20,25,14,0
+Jordi Arconada,774,25,25,16,0
+Guilherme Clezar,775,29,25,17,0
+Nathan Ponwith,776,23,25,26,0
+Patrik Niklas-Salminen,777,25,25,27,0
+Francesco Vilardo,778,32,25,42,2
+Philip Sekulic,779,18,24,7,0
+Johannes Ingildsen,780,24,24,9,0
+Adria Soriano Barrera,781,22,24,9,0
+Federico Agustin Gomez,782,25,24,11,0
+Matteo Donati,783,27,24,12,0
+Giles Hussey,784,24,24,13,0
+Evan Hoyt,785,27,24,16,0
+Nathan Seateun,786,24,24,18,0
+Omar Giacalone,787,30,24,22,0
+Constantin Schmitz,788,26,24,23,0
+Markos Kalovelonis,789,27,24,25,0
+Luigi Sorrentino,790,23,24,25,0
+Vladyslav Manafov,791,28,24,27,0
+Daniel Nguyen,792,31,23,5,0
+Jurgen Zopp,793,33,23,10,0
+Maciej Rajski,794,30,23,12,0
+Jaume Pla Malfeito,795,26,23,14,0
+Rrezart Cungu,796,23,23,14,0
+Tomislav Brkic,797,31,23,14,0
+Emil Reinberg,798,24,23,14,0
+Raphael Collignon,799,20,23,15,0
+Isaiah Strode,800,24,23,15,0
+Gleb Sakharov,801,33,23,17,0
+Alexey Zakharov,802,21,23,17,0
+Fred Gil,803,36,23,19,0
+Pablo Vivero Gonzalez,804,26,23,20,0
+Petros Tsitsipas,805,21,23,21,0
+Andrea Picchione,806,23,23,22,0
+Leonardo Aboian,807,23,23,27,0
+Ignacio Monzon,808,24,23,33,0
+August Holmgren,809,23,22,8,0
+Giacomo Dambrosi,810,20,22,11,0
+Alessandro Ragazzi,811,25,22,13,0
+Evan Song,812,29,22,16,0
+Jordan Correia,813,24,22,17,0
+Valerio Aboian,814,19,22,17,0
+Maverick Banes,815,29,22,17,0
+Pedro Vives Marcos,816,20,22,24,0
+Alafia Ayeni,817,22,22,25,0
+Michael Zhu,818,29,22,30,0
+Adam El Mihdawy,819,32,22,30,0
+Sergey Fomin,820,21,22,32,0
+Marko Topo,821,18,21,9,0
+Gonzalo Escobar,822,33,21,12,0
+Christian Sigsgaard,823,24,21,12,0
+Tom Jomby,824,31,21,13,0
+Khololwam Montsi,825,19,21,14,0
+Daniel Merida Aguilar,826,17,21,15,0
+Uisung Park,827,21,21,17,0
+Diego Augusto Barreto Sanchez,828,19,21,18,0
+Calin Manda,829,23,21,18,0
+Zsombor Velcz,830,19,21,19,0
+Ivan Liutarevich,831,26,21,19,0
+Mathys Erhard,832,20,21,20,0
+Diego Fernandez Flores,833,21,21,22,0
+Marko Miladinovic,834,21,21,23,0
+Ricardo Ojeda Lara,835,29,20,14,0
+Daniel Little,836,24,20,16,0
+Nicolas Alberto Arreche,837,27,20,18,0
+Alexander Zhurbin,838,30,20,19,0
+Juan Bautista Otegui,839,23,20,20,0
+Niki Kaliyanda Poonacha,840,26,20,22,0
+Guy Den Heijer,841,24,20,22,0
+Martin Breysach,842,20,20,26,0
+Marat Deviatiarov,843,27,20,32,0
+Kelsey Stevenson,844,31,20,35,0
+Gabriel Alejandro Hidalgo,845,31,19,12,0
+Edoardo Eremin,846,28,19,12,0
+Marcello Serafini,847,19,19,13,0
+Kuan-Yi Lee,848,25,19,13,0
+Blu Baker,849,20,19,14,0
+Maximiliano Estevez,850,32,19,16,0
+Nikita Mashtakov,851,22,19,21,0
+Louis Dussin,852,22,19,21,0
+Dan Alexandru Tomescu,853,22,19,23,0
+Peter Nagy,854,29,19,24,0
+Blake Ellis,855,23,19,24,0
+Simon Beaupain,856,22,19,25,0
+Benjamin Dhoe,857,25,19,25,0
+Kento Takeuchi,858,34,19,26,0
+Karl Friberg,859,22,19,31,0
+Kevin Krawietz,860,30,18,6,0
+Tristan Boyer,861,20,18,10,0
+Justin Butsch,862,27,18,11,0
+Di Wu,863,30,18,11,0
+Jie Cui,864,24,18,12,0
+Fabien Reboul,865,26,18,14,0
+Lorenzo Rottoli,866,20,18,15,0
+Martin Redlicki,867,26,18,15,0
+Robin Stanek,868,27,18,16,0
+Joao Pedro Sorgi,869,28,18,16,0
+Tom Kocevar-Desman,870,31,18,17,0
+Maxence Beauge,871,21,18,18,0
+Sidane Pontjodikromo,872,21,18,19,0
+Julian Cash,873,25,18,19,0
+Robin Bertrand,874,18,18,20,0
+Marco Bortolotti,875,31,18,21,0
+Gabriel Donev,876T,25,18,21,0
+Luca Tomasetto,876T,25,18,21,0
+Viktor Jovic,878,20,18,23,0
+Alessandro Ingarao,879,22,18,25,0
+Simon Anthony Ivanov,880,21,18,26,0
+Stefano Battaglino,881,23,18,26,0
+Millen Hurrion,882,22,17,5,0
+N.Sriram Balaji,883,31,17,6,0
+Daniel Rodrigues,884,22,17,7,0
+Lamine Ouahab,885,37,17,9,0
+Matyas Fuele,886,23,17,13,0
+Eduardo Ribeiro,887,23,17,13,0
+Nitin Kumar Sinha,888,23,17,14,0
+Aaron Addison,889,26,17,16,0
+Justin Roberts,890,25,17,16,0
+Alec Deckers,891,21,17,17,0
+Neil Oberleitner,892,22,17,18,0
+Alejandro Hoyos,893,22,17,18,0
+Luca Vanni,894,36,17,20,0
+Mwendwa Mbithi,895,24,17,20,0
+Louis Tessa,896,23,17,21,0
+Ryan Shane,897,27,17,22,0
+Simon Freund,898,25,17,23,0
+Dali Blanch,899,19,17,23,0
+Connor Farren,900,27,17,23,0
+Arthur Bouquier,901,21,17,24,0
+Chien-hsun Lo,902,23,17,25,0
+William Blumberg,903,24,16,3,0
+Simone Bolelli,904,36,16,3,0
+Alexandre Reco,905,22,16,5,0
+Gianluigi Quinzi,906,26,16,10,0
+Aleksandr Braynin,907,22,16,11,0
+Scott Griekspoor,908,31,16,12,0
+Adam Moundir,909,26,16,14,0
+Jonathan Gray,910,24,16,15,0
+Marat Sharipov,911,19,16,16,0
+Leopold Zima,912,21,16,16,0
+Sean Cuenin,913,18,16,16,0
+Dragos Dima,914,29,16,17,0
+Francisco Cabral,915,25,16,18,0
+Petr Nouza,916,23,16,20,0
+Ajeet Rai,917,23,16,21,0
+Wishaya Trongcharoenchaikul,918,26,16,25,0
+Alejandro Mendoza,919,32,16,26,0
+Toby Martin,920,29,16,27,0
+Dostanbek Tashbulatov,921,21,16,30,0
+Constantin Bittoun Kouzmine,922,23,16,30,0
+Giorgio Ricca,923,27,16,31,0
+Jan Zielinski,924,25,15,5,0
+Enzo Wallart,925,25,15,7,0
+Ante Pavic,926,32,15,11,0
+Takanyi Garanganga,927,31,15,11,0
+Mario Mansilla Diez,928,19,15,11,0
+Milos Karol,929,19,15,12,0
+Luka Pavlovic,930,21,15,14,0
+Mauricio Echazu,931,33,15,16,0
+Bruno Santanna,932,28,15,16,0
+Rimpei Kawakami,933,21,15,21,0
+Tsung-Hao Huang,934,22,15,21,0
+Max Alcala Gurri,935,19,15,21,0
+Hugo Pontico,936,24,15,22,0
+Duje Kekez,937,28,15,24,0
+Aziz Ouakaa,938,22,15,38,0
+Eduardo Nava,939,24,14,3,0
+Daniel Brands,940,34,14,6,0
+Tommaso Compagnucci,941,22,14,9,0
+Matt Kuhar,942,25,14,10,0
+Benjamin Sigouin,943,22,14,10,0
+Ljubomir Celebic,944,30,14,10,0
+Daniel Antonio Nunez,945,20,14,11,0
+Dennis Novikov,946,28,14,12,0
+Andrey Golubev,947,34,14,14,0
+Evgeny Philippov,948,20,14,14,0
+Simon Yitbarek,949,21,14,14,0
+Gabriel Petit,950,26,14,15,0
+Tomas Jirousek,951,22,14,16,0
+Brandon Walkin,952,27,14,16,0
+Daniel Rincon,953,19,14,16,0
+Maxime Tchoutakian,954,28,14,19,0
+S D Prajwal Dev,955,25,14,19,0
+Bruno Pujol Navarro,956,20,14,20,0
+Petr Hajek,957,24,14,21,0
+Volodoymyr Uzhylovskyi,958,33,14,21,0
+Vlad Andrei Dancu,959,22,14,22,0
+Gabriele Maria Noce,960,26,14,22,0
+Maxime Mora,961,24,14,27,0
+Ray Ho,962,22,14,27,0
+Koray Kirci,963,23,14,28,0
+Gorazd Srbljak,964,24,14,29,0
+Gabriel Debru,965,16,13,5,0
+Axel Geller,966,22,13,5,0
+Alexander Vasilenko,967,27,13,6,0
+Albert Alcaraz Ivorra,968,26,13,7,0
+Maks Kasnikowski,969,18,13,9,0
+Ilya Snitari,970,19,13,10,0
+Santiago De La Fuente,971,20,13,11,0
+Henry Craig,972,27,13,12,0
+George Loffhagen,973,20,13,13,0
+Yecong He,974,28,13,14,0
+Yann Wojcik,975,25,13,14,0
+Cheong-Eui Kim,976,31,13,14,0
+Nik Razborsek,977,28,13,14,0
+Benjamin Pietri,978,25,13,17,0
+Kazuma Kawachi,979,27,13,18,0
+Niklas Schell,980,23,13,20,0
+Yan Sabanin,981,32,13,26,0
+Mirko Martinez,982,23,13,32,0
+James Tracy,983,19,12,1,0
+Gabriel Diallo,984,20,12,4,0
+Juan Manuel Benitez Chavarriaga,985,26,12,7,0
+Gerard Granollers,986,33,12,8,0
+Fernando Yamacita,987,24,12,9,0
+Aleksandre Bakshi,988,24,12,11,0
+Vladislav Ivanov,989T,22,12,12,0
+Adrian Obert,989T,26,12,12,0
+Peter Kobelt,991,31,12,12,0
+Alexander Crnokrak,992,22,12,13,0
+David Jorda Sanchis,993,27,12,14,0
+Gabriele Bosio,994,21,12,14,0
+Buvaysar Gadamauri,995,21,12,16,0
+Abhinav Sanjeev Shanmugam,996,23,12,19,0
+Ronan Joncour,997,25,12,21,0
+Fabio Coelho,998,21,12,22,0
+Vladimir Ivanov,999,34,12,23,0
+Daniil Glinka,1000,21,12,28,0
+Tristan McCormick,1001,22,11,5,0
+Taha Baadi,1002,20,11,6,0
+Pierre Yves Bailly,1003,18,11,7,0
+Harri Heliovaara,1004,32,11,7,0
+Liam Caruana,1005,24,11,7,0
+Jerome Kym,1006,19,11,8,0
+Sahar Simon,1007,21,11,8,0
+Victor Lilov,1008,18,11,9,0
+Szymon Kielan,1009,19,11,10,0
+Gabriele Piraino,1010,18,11,10,0
+Alexander Kotzen,1011,21,11,10,0
+Maxence Broville,1012,23,11,11,0
+Colin Markes,1013,25,11,12,0
+Lucas Bouquet,1014,24,11,12,0
+A.J. Catanzariti,1015,26,11,13,0
+Paul Oosterbaan,1016,26,11,13,0
+Xin Gao,1017,27,11,13,0
+Frane Nincevic,1018,22,11,14,0
+Filip Duda,1019,23,11,14,0
+Peter Bothwell,1020T,26,11,15,0
+Kristian Lozan,1020T,23,11,15,0
+Maxime Pauwels,1022,23,11,16,0
+Kazuki Nishiwaki,1023,27,11,16,0
+Alessandro Petrone,1024,31,11,17,0
+Max Houkes,1025,21,11,17,0
+Michal Mikula,1026,22,11,18,0
+Tadeas Paroulek,1027,22,11,18,0
+Louroi Martinez,1028,23,11,18,0
+Michiel De Krom,1029,23,11,18,0
+Nicolas Tepmahc,1030,20,11,20,0
+Guido Ivan Justo,1031,24,11,20,0
+Mikhail Fufygin,1032,31,11,20,0
+Rishab Agarwal,1033,26,11,21,0
+Matvey Minin,1034,20,11,21,0
+Nicolo Turchetti,1035,25,11,22,0
+Peter Goldsteiner,1036,31,11,28,0
+Deney Wassermann,1037,20,10,8,0
+Menelaos Efstathiou,1038,23,10,8,0
+Harrison Adams,1039,27,10,9,0
+Yuta Kawahashi,1040,24,10,9,0
+Alexander Lebedev,1041,24,10,9,0
+Jorge Martinez Martinez,1042,26,10,9,0
+Laurynas Grigelis,1043,30,10,9,0
+Hiroyasu Ehara,1044,30,10,9,0
+Jeffrey Von Der Schulenburg,1045,20,10,10,0
+Jonas Trinker,1046,26,10,10,0
+Lorenzo Frigerio,1047,33,10,11,0
+Andrew Watson,1048,25,10,11,0
+Niels Lootsma,1049,27,10,12,0
+Masamichi Imamura,1050,23,10,12,0
+Austin Rapp,1051,25,10,13,0
+Michal Konecny,1052,32,10,14,0
+Matas Vasiliauskas,1053,19,10,14,0
+Mattia Frinzi,1054,22,10,15,0
+Keisuke Saitoh,1055,20,10,15,0
+Alexander Igoshin,1056,30,10,15,0
+Hong Kit Wong,1057,23,10,16,0
+Alexander Bernard,1058,18,10,17,0
+Vladimir Korolev,1059T,26,10,18,0
+Seita Watanabe,1059T,21,10,18,0
+George Tsivadze,1061,29,10,18,0
+Saba Purtseladze,1062,20,10,20,0
+Alex Barrena,1063,19,10,24,0
+Paul Woerner,1064,25,10,29,0
+Julio Cesar Porras,1065T,24,9,3,0
+Edward Winter,1065T,17,9,3,0
+Toshihide Matsui,1067,43,9,3,0
+Yibing Wu,1068,22,9,4,0
+Alejandro Garcia,1069,20,9,5,0
+Marcelo Zormann,1070,25,9,5,0
+Laurent Rochette,1071,34,9,6,0
+Joshua Ortlip,1072,25,9,6,0
+Dalwinder Singh,1073,25,9,7,0
+Ruan Roelofse,1074,32,9,7,0
+Gengo Kikuchi,1075,30,9,8,0
+Omar Brigida,1076,22,9,8,0
+Matias Soto,1077,22,9,9,0
+Kareem Al Allaf,1078T,23,9,9,0
+Drew Baird,1078T,21,9,9,0
+Daniel De Jonge,1080,22,9,9,0
+Nicolas Zanellato,1081,20,9,10,0
+Alen Rogic-Hadzalic,1082,24,9,10,0
+Martin Borisiouk,1083,21,9,11,0
+Chak Lam Coleman Wong,1084,17,9,11,0
+Shinji Hazawa,1085,22,9,11,0
+Julius Tverijonas,1086,27,9,11,0
+Alvaro Guillen Meza,1087,19,9,11,0
+Bruno Kuzuhara,1088,17,9,12,0
+Lukas Pokorny,1089,20,9,13,0
+Dev Javia,1090,19,9,13,0
+Wojciech Marek,1091,20,9,13,0
+Dennis Uspensky,1092,25,9,14,0
+Alan Kohen,1093,28,9,14,0
+Victor Vlad Cornea,1094,28,9,14,0
+Albano Olivetti,1095,30,9,14,0
+Rhett Purcell,1096,26,9,15,0
+Joshua Paris,1097,26,9,15,0
+Mehluli Don Ayanda Sibanda,1098,22,9,16,0
+Shalva Dzhanashiya,1099,29,9,16,0
+Andrea Guerrieri,1100,23,9,17,0
+Yanais Laurent,1101T,29,9,17,0
+Aristotelis Thanos,1101T,20,9,17,0
+Fletcher Scott,1103,23,9,17,0
+Jesse Flores,1104,26,9,18,0
+Matthew Dellavedova,1105,21,9,19,0
+Antonio Massara,1106,26,9,19,0
+Issei Okamura,1107,29,9,20,0
+Boris Butulija,1108,23,9,25,0
+Sarp Agabigun,1109,24,9,25,0
+Gustav Hansson,1110,26,8,3,0
+Manuel Sanchez,1111,31,8,4,0
+Gianluca Acquaroli,1112T,27,8,5,0
+Loris Pourroy,1112T,21,8,5,0
+Artem Smirnov,1114,34,8,5,0
+Gregoire Jacq,1115,29,8,6,0
+Jurabek Karimov,1116,23,8,6,0
+Matej Sabanov,1117T,29,8,6,0
+Sumit Sarkar,1117T,22,8,6,0
+Vincent Stouff,1119,35,8,7,0
+Bekkhan Atlangeriev,1120,20,8,7,0
+Dylan Salton,1121,19,8,8,0
+Sem Verbeek,1122,27,8,8,0
+Pierre Faivre,1123,26,8,9,0
+Lisandru Rodriguez,1124,19,8,10,0
+Osgar O'Hoisin,1125,25,8,11,0
+Joshua Peck,1126,23,8,11,0
+Ivan Davydov,1127,25,8,11,0
+Soichiro Moritani,1128,27,8,11,0
+Anas Fattar,1129,34,8,11,0
+Milan Welte,1130,20,8,12,0
+Kenneth Raisma,1131,23,8,12,0
+Blaise Bicknell,1132,20,8,12,0
+Runhao Hua,1133,26,8,13,0
+Thomas Deschamps,1134,23,8,13,0
+Francisco Andreu Garcia,1135,20,8,14,0
+Bart Stevens,1136,24,8,14,0
+Aliaksandr Bulitski,1137,28,8,14,0
+Timur Kiyamov,1138,25,8,16,0
+Ben Jones,1139,23,8,17,0
+Enrique Bogo,1140,26,8,17,0
+Maxim Ratniuk,1141,25,8,18,0
+Florent Bax,1142,22,8,20,0
+Boris Pokotilov,1143,24,8,20,0
+Daisuke Sumizawa,1144,23,8,21,0
+Kristjan Tamm,1145,23,8,22,0
+Taisei Ichikawa,1146,21,8,23,0
+Tomislav Jotovski,1147,31,8,24,0
+Haru Inoue,1148,25,7,3,0
+Jules Marie,1149,30,7,3,0
+Vincent Millot,1150,36,7,4,0
+Hugo Voljacques,1151,29,7,5,0
+Antonio Campo,1152,28,7,5,0
+Alexander Maarten Jong,1153,21,7,6,0
+Samuele Ramazzotti,1154,23,7,6,0
+Julien Cagnina,1155,27,7,7,0
+Alexander Zgirovsky,1156,20,7,7,0
+Pavel Verbin,1157,20,7,7,0
+Emilien Voisin,1158,21,7,7,0
+Andrew Fenty,1159T,21,7,7,0
+Mick Lescure,1159T,28,7,7,0
+Jose Olivares,1159T,25,7,7,0
+Alex Knaff,1162,24,7,8,0
+Tomas Liska,1163,23,7,8,0
+Inigo Cervantes,1164,32,7,8,0
+Mauro De Maio,1165,20,7,8,0
+Edoardo Graziani,1166,22,7,8,0
+Giovani Samaha,1167,27,7,9,0
+Tao Mu,1168,21,7,9,0
+Egor Agafonov,1169T,19,7,9,0
+Erik Arutiunian,1169T,17,7,9,0
+Kiranpal Pannu,1169T,25,7,9,0
+Raphael Baltensperger,1172,24,7,10,0
+Max Hans Rehberg,1173,18,7,10,0
+Loic Cloes,1174,23,7,11,0
+Cheng-Yu Yu,1175,26,7,11,0
+Calum Puttergill,1176,28,7,11,0
+Paul Valsecchi,1177,24,7,12,0
+Gabriel Ciro Da Silva,1178T,22,7,12,0
+Sora Fukuda,1178T,24,7,12,0
+Niklas Guttau,1180T,22,7,12,0
+Ondrej Krstev,1180T,24,7,12,0
+Alec Adamson,1182T,27,7,13,0
+Tibo Colson,1182T,21,7,13,0
+William Bushamuka,1184T,26,7,14,0
+Dimitriy Voronin,1184T,22,7,14,0
+Marlon Vankan,1186,21,7,14,0
+Axel Garcian,1187,19,7,15,0
+Lukas Palovic,1188,20,7,16,0
+Domagoj Biljesko,1189T,24,7,16,0
+Takashi Saito,1189T,27,7,16,0
+Mikalai Haliak,1191,23,7,17,0
+Isaac Stoute,1192,25,7,18,0
+Manfred Fellin,1193,25,7,19,0
+Alexandros Skorilas,1194,21,7,21,0
+Albert Roglan,1195,23,7,21,0
+Yannik Steinegger,1196,21,7,21,0
+Pierre Delage,1197,21,7,22,0
+Alexis Canter,1198,23,7,30,0
+Mattias Siimar,1199,24,6,1,0
+Tim Puetz,1200,34,6,2,0
+Joao Souza,1201T,33,6,2,0
+Szymon Walkow,1201T,26,6,2,0
+Scott Puodziunas,1203,32,6,4,0
+Sergio Galdos,1204,32,6,4,0
+Victor Estrella Burgos,1205,41,6,5,0
+Clement Geens,1206,25,6,5,0
+Martin Beran,1207T,26,6,5,0
+Valentin Lapalu,1207T,19,6,5,0
+Jung-Woong Na,1207T,29,6,5,0
+Biagio Gramaticopolo,1210,19,6,6,0
+Victor Nunez,1211,30,6,6,0
+Andrea Bolla,1212T,23,6,6,0
+Nicolas Buitrago,1212T,23,6,6,0
+Manuel Mazza,1214,22,6,7,0
+Francisco Llanes,1215,19,6,7,0
+Fausto Tabacco,1216T,19,6,7,0
+Bautista Vilicich,1216T,20,6,7,0
+Bu Yunchaokete,1216T,20,6,7,0
+Mateo Gomez,1219T,19,6,7,0
+Sergio Martos Gornes,1219T,27,6,7,0
+Dusan Obradovic,1221,20,6,8,0
+Yuanfeng Li,1222,28,6,8,0
+Valentin Guenther,1223T,24,6,8,0
+Pascal Meis,1223T,28,6,8,0
+Luciano Tacchi,1225,20,6,8,0
+Petr Bar Biryukov,1226,20,6,9,0
+Gianluca Di Nicola,1227,26,6,9,0
+Kody Pearson,1228,22,6,9,0
+Jakob Aichhorn,1229T,23,6,9,0
+Giorgio Tabacco,1229T,18,6,9,0
+Nikita Volonski,1229T,20,6,9,0
+Mark Lajal,1232,18,6,10,0
+Ishaque Eqbal,1233,24,6,10,0
+Amr Elsayed,1234T,23,6,10,0
+Lucas Gomez,1234T,26,6,10,0
+Garrett Johns,1234T,21,6,10,0
+Saida'Lo Saidkarimov,1234T,24,6,10,0
+Niels Visker,1238,20,6,10,0
+Nicolas Parizzia,1239T,23,6,11,0
+Sergei Pogosian,1239T,23,6,11,0
+Digvijaypratap Singh,1239T,21,6,11,0
+Pol Amoros Ramos,1242,24,6,11,0
+Daniel Siniakov,1243,19,6,12,0
+Zura Tkemaladze,1244,21,6,12,0
+Palaphoom Kovapitukted,1245T,22,6,12,0
+Arvid Nordquist,1245T,23,6,12,0
+Julian Bradley,1247,29,6,12,0
+Alexander Brown,1248,22,6,13,0
+Zihao Xia,1249,25,6,13,0
+Kai Lemstra,1250T,22,6,13,0
+Riccardo Maiga,1250T,32,6,13,0
+Leonid Sheyngezikht,1250T,21,6,13,0
+Taiyo Yamanaka,1253,20,6,14,0
+Franco Roncadelli,1254T,22,6,14,0
+Marius Ruzgas,1254T,25,6,14,0
+William Griffith,1256,26,6,16,0
+Alexandr Binda,1257T,20,6,17,0
+Kosuke Ogura,1257T,26,6,17,0
+Aryan Goveas,1259T,23,6,21,0
+Aliaksandr Liaonenka,1259T,22,6,21,0
+Felipe Hernandez,1261,21,5,2,0
+Benjamin Hannestad,1262T,25,5,3,0
+Sven Lah,1262T,23,5,3,0
+James Trotter,1264,22,5,3,0
+Matheus Amorim De Lima,1265,17,5,4,0
+Ko Suzuki,1266,30,5,4,0
+Gabriel Tumasonis,1267,26,5,4,0
+Jordi Samper-Montana,1268,31,5,4,0
+Kalman L. Boyd,1269T,24,5,5,0
+Vaughn Hunter,1269T,27,5,5,0
+Jakub Wojcik,1271,24,5,5,0
+Adrian Andrzejczuk,1272T,25,5,5,0
+Axel Nefve,1272T,21,5,5,0
+Tadas Babelis,1274T,25,5,6,0
+Pedro Rodenas,1274T,17,5,6,0
+Dejan Katic,1276T,33,5,6,0
+Yuta Kikuchi,1276T,22,5,6,0
+Ye Cong Mo,1276T,21,5,6,0
+Alessandro Pecci,1279,20,5,6,0
+Christian Oliveira,1280T,22,5,6,0
+Finn Tearney,1280T,31,5,6,0
+Wilfredo Gonzalez,1282T,29,5,6,0
+Lucas Vuradin,1282T,23,5,6,0
+Martyn Pawelski,1284,17,5,7,0
+Jacob Dunbar,1285,26,5,7,0
+Jack Findel-Hawkins,1286T,27,5,7,0
+Cyril Vandermeersch,1286T,22,5,7,0
+Oscar Weightman,1286T,20,5,7,0
+Matvey Khomentovskiy,1289T,27,5,7,0
+Bart Van Den Berg,1289T,28,5,7,0
+Florent Diep,1291T,30,5,8,0
+Filippo Moroni,1291T,21,5,8,0
+Chukang Wang,1291T,22,5,8,0
+Alex Martinez,1294,20,5,8,0
+Lorenzo Joaquin Rodriguez,1295T,22,5,9,0
+Michael Shabaz,1295T,34,5,9,0
+Yasha Zemel,1295T,23,5,9,0
+Berk Ilkel,1298T,20,5,9,0
+Marek Jaloviec,1298T,28,5,9,0
+Stefan Micov,1298T,29,5,9,0
+Kasidit Samrej,1298T,21,5,9,0
+Pak Long Yeung,1298T,27,5,9,0
+Alex Blumenberg,1303T,29,5,10,0
+Mario Gonzalez Fernandez,1303T,19,5,10,0
+MinKyu Song,1303T,31,5,10,0
+Eero Vasa,1303T,25,5,10,0
+Edouard Villoslada,1303T,22,5,10,0
+Marco De Rossi,1308T,24,5,10,0
+Rishi Reddy,1308T,23,5,10,0
+Marek Semjan,1308T,34,5,10,0
+Martin Van Der Meerschen,1308T,21,5,10,0
+Alejandro Manzanera Pertusa,1312T,18,5,11,0
+Errol Smith,1312T,27,5,11,0
+Reese Stalder,1312T,25,5,11,0
+Alec Beckley,1315T,20,5,12,0
+Romain Faucon,1315T,19,5,12,0
+Wissam Abderrahman,1317T,18,5,12,0
+Oleg Khotkov,1317T,31,5,12,0
+Sergi Perez Contri,1317T,24,5,12,0
+Siddhant Banthia,1320T,21,5,12,0
+Christoffer Solberg,1320T,28,5,12,0
+Joao Victor Couto Loureiro,1322T,18,5,13,0
+Luca Prevosto,1322T,23,5,13,0
+Jody Maginley,1324T,26,5,14,0
+Joao Marcos Nusdeo,1324T,27,5,14,0
+Anirudh Chandrasekar,1326,23,5,15,0
+James Frawley,1327T,27,5,16,0
+Maik Steiner,1327T,27,5,16,0
+Adil Kalyanpur,1329,22,5,18,0
+Miguel Angel Reyes-Varela,1330,34,4,1,0
+Ignacio Antonio Becerra Otarola,1331T,21,4,2,0
+Alexander Merino,1331T,29,4,2,0
+Juan Carlos Prado Angelo,1331T,17,4,2,0
+Leny Mitjana,1334,27,4,2,0
+Robert Galloway,1335,29,4,2,0
+Chuhan Wang,1336,30,4,3,0
+Aristarkh Safonov,1337,19,4,3,0
+Cristobal Castro,1338T,28,4,4,0
+Sergio Gutierrez-Ferrol,1338T,33,4,4,0
+Vishnu Vardhan,1338T,34,4,4,0
+Andrea Gola,1341,20,4,4,0
+Nino Ehrenschneider,1342T,20,4,4,0
+Gianni Mina,1342T,30,4,4,0
+Abedallah Shelbayh,1342T,18,4,4,0
+Ti Chen,1345T,38,4,4,0
+Ronan Jachuck,1345T,20,4,4,0
+Takuya Kumasaka,1345T,23,4,4,0
+Felipe Mantilla,1345T,28,4,4,0
+Luka Petrovic,1345T,19,4,4,0
+Sanhui Shin,1345T,24,4,4,0
+Hikaru Shiraishi,1345T,21,4,4,0
+Yann Marti,1352,33,4,4,0
+Fabrizio Andaloro,1353T,21,4,5,0
+Johan Alexander Rodriguez Rodriguez,1353T,18,4,5,0
+Wei-De Lin,1355T,26,4,5,0
+Haitong Xia,1355T,26,4,5,0
+Petru-Alexandru Luncanu,1357T,32,4,5,0
+Piotr Matuszewski,1357T,23,4,5,0
+Oscar Mesquida Berg,1357T,25,4,5,0
+Ji Hoon Son,1357T,27,4,5,0
+Yeong-Seok Jeong,1361T,22,4,5,0
+Sho Katayama,1361T,32,4,5,0
+Siphosothando Montsi,1361T,22,4,5,0
+Juan Sebastian Osorio,1361T,24,4,5,0
+Roee Benya,1365T,22,4,6,0
+Antonin Bolardt,1365T,23,4,6,0
+Thomas Laurent,1365T,24,4,6,0
+Congsup Congcar,1368T,25,4,6,0
+Dax Donders,1368T,21,4,6,0
+David Fox,1368T,28,4,6,0
+Seong-Gook Oh,1368T,29,4,6,0
+Simeon Terziev,1368T,19,4,6,0
+Juan Carlos Manuel Aguilar,1373,23,4,6,0
+Luis Britto,1374T,28,4,7,0
+Iiro Vasa,1374T,19,4,7,0
+Vasile Antonescu,1376T,31,4,7,0
+Yurii Dzhavakian,1376T,28,4,7,0
+Lorenzo Gagliardo,1376T,21,4,7,0
+Maximus Jones,1376T,17,4,7,0
+Shao-Fan Liu,1376T,25,4,7,0
+Mathieu Scaglia,1376T,23,4,7,0
+Philip Bachmaier,1382T,25,4,7,0
+Ozan Colak,1382T,17,4,7,0
+Paras Dahiya,1382T,23,4,7,0
+Milen Ianakiev,1382T,26,4,7,0
+Justin Boulais,1386,20,4,8,0
+Gibril Diarra,1387T,31,4,8,0
+Vilius Gaubas,1387T,17,4,8,0
+Finn Bass,1389T,22,4,8,0
+Lukas Hellum-Lilleengen,1389T,21,4,8,0
+Adam Jurajda,1389T,18,4,8,0
+Florian Lakat,1389T,26,4,8,0
+Stefanos Sakellaridis,1393T,17,4,9,0
+Jake Van Emburgh,1393T,23,4,9,0
+Wei Qiang Zheng,1393T,25,4,9,0
+Joffrey De Schepper,1396T,30,4,9,0
+Zachary Eisinga,1396T,22,4,9,0
+Pedro Iamachkine,1396T,25,4,9,0
+Niklas Johansson,1396T,23,4,9,0
+Tom Pisane,1396T,21,4,9,0
+Olivier Rojas,1396T,21,4,9,0
+Bozo Barun,1402T,20,4,10,0
+Nicholas Bybel,1402T,28,4,10,0
+Jesse Delaney,1402T,23,4,10,0
+Goran Markovic,1402T,26,4,10,0
+Gian Marco Ortenzi,1402T,22,4,10,0
+Paul Cayre,1407T,26,4,10,0
+Alberto Colas Sanchez,1407T,21,4,10,0
+Hanyi Liu,1407T,20,4,10,0
+Noah Schachter,1407T,22,4,10,0
+Chanchai Sookton-eng,1407T,25,4,10,0
+Nikolay Vylegzhanin,1407T,21,4,10,0
+Alexis Boureau,1413T,25,4,11,0
+Keenan Mayo,1413T,21,4,11,0
+Kuzey Cekirge,1415T,21,4,11,0
+Goncalo Falcao,1415T,34,4,11,0
+Aidan Mayo,1415T,18,4,11,0
+Hamidreza Nadaf,1415T,29,4,11,0
+Suraj R Prabodh,1415T,27,4,11,0
+Dominik Recek,1415T,27,4,11,0
+Federico Bertuccioli,1421,23,4,12,0
+Cameron Green,1422T,25,4,12,0
+N Vijay Sundar Prashanth,1422T,35,4,12,0
+Karunuday Singh,1422T,31,4,12,0
+Daniel Batista,1425T,23,4,13,0
+Bogdan Borza,1425T,24,4,13,0
+Piotr Grynkowski,1427T,29,4,14,0
+Pavel Krainik,1427T,29,4,14,0
+Pavel Shumeiko,1427T,21,4,14,0
+George Botezan,1430,25,4,15,0
+Karlis Ozolins,1431,19,4,16,0
+Anis Ghorbel,1432,32,4,16,0
+Preston Brown,1433,20,4,19,0
+Max Basing,1434T,19,3,1,0
+Mao-Xin Gong,1434T,34,3,1,0
+Philip Henning,1434T,21,3,1,0
+Chris Rodesch,1434T,20,3,1,0
+Oliver Tarvet,1434T,18,3,1,0
+Yannick Vandenbulcke,1434T,31,3,1,0
+Henry Von Der Schulenburg,1434T,22,3,1,0
+Robert Cash,1441T,20,3,2,0
+Liam Gavrielides,1441T,18,3,2,0
+Omar Jasika,1441T,24,3,2,0
+Jea Moon Lee,1441T,28,3,2,0
+Stylianos Christodoulou,1445T,17,3,2,0
+Oleg Dolgosheyev,1445T,31,3,2,0
+Kweisi Kenyatte,1445T,22,3,2,0
+Roberto Miceli,1445T,19,3,2,0
+Alexander Pavlioutchenkov,1445T,36,3,2,0
+Alexander Stepin,1445T,26,3,2,0
+Ryohei Tagata,1445T,22,3,2,0
+Xiaofei Wang,1452,19,3,3,0
+Yong-Kyu Lim,1453T,30,3,3,0
+Faisal Qamar,1453T,22,3,3,0
+Karue Sell,1453T,28,3,3,0
+Igor Smilansky,1453T,26,3,3,0
+Charlie Camus,1457T,15,3,3,0
+Yamato Sueoka,1457T,19,3,3,0
+Bharath Nishok Kumaran,1459T,23,3,4,0
+Shunsuke Mitsui,1459T,19,3,4,0
+Adrian Bodmer,1461T,27,3,4,0
+Thomas Bosancic,1461T,21,3,4,0
+Francisco Dias,1461T,29,3,4,0
+Jarno Jans,1461T,21,3,4,0
+Oh-Hee Kwon,1461T,43,3,4,0
+Pietro Pampanin,1461T,19,3,4,0
+Henrique Rocha,1461T,17,3,4,0
+Gabriel Roveri Sidney,1468,24,3,5,0
+Egor Novikov,1469T,20,3,5,0
+Tim Sandkaulen,1469T,24,3,5,0
+Andres Andrade,1471T,23,3,5,0
+Oleksandr Bielinskyi,1471T,27,3,5,0
+Gabor Borsos,1471T,30,3,5,0
+Michael-John Every,1471T,27,3,5,0
+Tom Fawcett,1471T,26,3,5,0
+Luca Gelhardt,1471T,27,3,5,0
+Tom Gentzsch,1471T,18,3,5,0
+Alessandro Procopio,1471T,23,3,5,0
+Samuel Puskar,1471T,21,3,5,0
+Gianni Ross,1471T,23,3,5,0
+Michael Zheng,1471T,18,3,5,0
+Maxim Zhukov,1471T,17,3,5,0
+Kristijan Juhas,1483T,20,3,6,0
+Radu Mihai Papoe,1483T,19,3,6,0
+Siddharth Vishwakarma,1483T,27,3,6,0
+Gonzalo Bueno,1486T,17,3,6,0
+Giovanni Calvano,1486T,24,3,6,0
+Seon Yong Han,1486T,21,3,6,0
+Daniel Ibragimov,1486T,19,3,6,0
+Adam Jones,1486T,23,3,6,0
+Sheil Kotecha,1486T,21,3,6,0
+Mikhail Minakov,1486T,20,3,6,0
+Nikolay Nedelchev,1486T,18,3,6,0
+Yvo Panak,1486T,26,3,6,0
+Joao Eduardo Schiessl,1486T,17,3,6,0
+Yaraslav Shyla,1486T,29,3,6,0
+Nicolas Uryson,1486T,28,3,6,0
+Alexandre Aubriot,1498T,22,3,7,0
+Trent Bryde,1498T,22,3,7,0
+Jared Hiltzik,1498T,27,3,7,0
+Olexiy Kolisnyk,1498T,25,3,7,0
+Mili Poljicak,1498T,17,3,7,0
+Austin Ansari Ansari,1503T,28,3,7,0
+Alessandro Coppini,1503T,23,3,7,0
+Marc Dijkhuizen,1503T,25,3,7,0
+Juan Pablo Grassi Mazzuchi,1503T,22,3,7,0
+Alexander Jhun,1503T,26,3,7,0
+Andre Miele,1503T,34,3,7,0
+Egor Noskin,1503T,21,3,7,0
+Rowland Phillips,1503T,28,3,7,0
+Mikal Statham,1503T,34,3,7,0
+Max Wiskandt,1503T,20,3,7,0
+Grey Hamilton,1513,25,3,8,0
+Federico Campana,1514,23,3,8,0
+Aron Pierce,1515,25,3,8,0
+Stephane Robert,1516,41,3,9,0
+Miles Jones,1517T,21,3,9,0
+Aleksander Orlikowski,1517T,18,3,9,0
+Alan Fernando Rubio Fierros,1517T,23,3,9,0
+Domenico Cutuli,1520T,25,3,9,0
+Sean Hess,1520T,20,3,9,0
+Yuichiro Inui,1520T,26,3,9,0
+Martin Katz,1520T,19,3,9,0
+Pietro Marino,1520T,20,3,9,0
+Tyler Mercier,1520T,30,3,9,0
+Hugo Schott,1520T,25,3,9,0
+Joshua Sheehy,1520T,25,3,9,0
+Aleksandar Tomas,1520T,18,3,9,0
+Alejo Vilaro,1520T,26,3,9,0
+Tyler Zink,1520T,21,3,9,0
+Kunal Anand,1531T,29,3,10,0
+Dante Gennaro,1531T,28,3,10,0
+Jack Gibbens,1531T,24,3,10,0
+Perry Gregg,1531T,21,3,10,0
+Leonardo Malgaroli,1531T,19,3,10,0
+Anatoliy Petrenko,1531T,26,3,10,0
+Li-Wei Tan,1531T,26,3,10,0
+Zakhar Trapeznikov,1531T,23,3,10,0
+Cengiz Aksu,1539T,23,3,11,0
+Amaury Raynel,1539T,19,3,11,0
+Sagadat Ayap,1541T,26,3,11,0
+Dragos Constantin Ignat,1541T,29,3,11,0
+Darko Jandric,1541T,27,3,11,0
+Boris Arias,1544T,28,3,12,0
+Toby D. Boyer,1544T,25,3,12,0
+Maikel De Boes,1544T,19,3,12,0
+Mikhail Korovin,1544T,26,3,12,0
+Michal Novansky,1544T,19,3,12,0
+Pol Wattanakul,1544T,26,3,12,0
+Yassir Kilani,1550,21,3,13,0
+Adelchi Virgili,1551,31,3,14,0
+Karlo Cubelic,1552T,24,3,14,0
+Faris Zakaryia,1552T,20,3,14,0
+Tim Heger,1554,22,3,15,0
+Juan Borba,1555T,25,2,1,0
+Kai Breitbach,1555T,24,2,1,0
+Hanamichi Carvajal,1555T,19,2,1,0
+Rafael Giotis,1555T,21,2,1,0
+Yasunori Hashikawa,1555T,23,2,1,0
+Yuya Ito,1555T,25,2,1,0
+Alex Lawson,1555T,28,2,1,0
+Louis Lechevretel,1555T,25,2,1,0
+Johannus Monday,1555T,20,2,1,0
+Costin Paval,1555T,31,2,1,0
+Stefan Seifert,1555T,37,2,1,0
+Divij Sharan,1555T,36,2,1,0
+Evan Bynoe,1567T,22,2,2,0
+Nikola Cacic,1567T,31,2,2,0
+Kuan Yu Chen,1567T,21,2,2,0
+Henrik Heise Korsgaard,1567T,25,2,2,0
+Jack Mingjie Lin,1567T,22,2,2,0
+Jurgen Melzer,1567T,40,2,2,0
+Lautaro Midon,1567T,17,2,2,0
+Luis Molina,1567T,22,2,2,0
+Nicaise Muamba,1567T,21,2,2,0
+Daniel Munoz de la Nava,1567T,40,2,2,0
+Artem Podorozhnyi,1567T,18,2,2,0
+Matthew Segura,1567T,21,2,2,0
+Farzin Danny Amiri,1579T,26,2,2,0
+Demetris Azoides,1579T,21,2,2,0
+Manuel Barros,1579T,27,2,2,0
+Lohithaksha Bathrinath,1579T,21,2,2,0
+Kevin Chahoud,1579T,20,2,2,0
+Ahmed Choudhary,1579T,28,2,2,0
+Nini Gabriel Dica,1579T,20,2,2,0
+Svyatoslav Gulin,1579T,19,2,2,0
+John Hallquist Lithen,1579T,20,2,2,0
+Carson Haskins,1579T,22,2,2,0
+Young-Hoon Jeong,1579T,32,2,2,0
+Hayden Jones,1579T,15,2,2,0
+Kyle Kang,1579T,17,2,2,0
+Christian Lerby,1579T,20,2,2,0
+Spencer Papa,1579T,26,2,2,0
+Pietro Rimondini,1579T,23,2,2,0
+Bastian Trinker,1579T,31,2,2,0
+Siim Troost,1579T,22,2,2,0
+Logan Zapp,1579T,20,2,2,0
+Igor Gimenez,1598T,22,2,3,0
+Marcel Kamrowski,1598T,18,2,3,0
+Tyler Lu,1598T,26,2,3,0
+David Vega Hernandez,1598T,27,2,3,0
+Sebastien Boltz,1602T,28,2,3,0
+Santiago Bramajo,1602T,21,2,3,0
+Filipe Brandao,1602T,30,2,3,0
+Lorenzo Brunetti,1602T,26,2,3,0
+Pasquale De Giorgio,1602T,22,2,3,0
+Alon Elia,1602T,26,2,3,0
+Xavier Gabarro,1602T,22,2,3,0
+Eric Hadigian,1602T,22,2,3,0
+Maximilian Homberg,1602T,19,2,3,0
+Chayanon Kaewsuto,1602T,26,2,3,0
+Christian Lakoseljac,1602T,23,2,3,0
+Raphael Lambling,1602T,21,2,3,0
+Joe Misrahi,1602T,18,2,3,0
+Brandon Murphy,1602T,21,2,3,0
+Michael Quintero,1602T,41,2,3,0
+Loic Ratsaratany,1602T,22,2,3,0
+Mason Recci,1602T,25,2,3,0
+Laelson Rodrigues,1602T,22,2,3,0
+Alexandre Rotsaert,1602T,22,2,3,0
+Len Schouten,1602T,22,2,3,0
+Jakob Sude,1602T,30,2,3,0
+Nikolay Sysoev,1602T,17,2,3,0
+Warren Wood,1602T,28,2,3,0
+Tamaki Yamao,1602T,23,2,3,0
+Hunter Heck,1626T,19,2,4,0
+Mikolaj Lorens,1626T,20,2,4,0
+Charl Morgan,1626T,20,2,4,0
+Nico Mostardi,1626T,24,2,4,0
+Gerard Planelles Ripoll,1626T,18,2,4,0
+Preston Touliatos,1626T,26,2,4,0
+Matej Vocel,1626T,24,2,4,0
+Edoardo Zanada,1626T,21,2,4,0
+Shi Hong Zeng,1626T,24,2,4,0
+Daniel Bagnolini,1635T,19,2,4,0
+Ameur Ben Hassen,1635T,28,2,4,0
+Gleb Blekher,1635T,21,2,4,0
+Franco Capalbo,1635T,24,2,4,0
+Thiago Cigarran,1635T,21,2,4,0
+Jake Delaney,1635T,24,2,4,0
+Sebastian Dominko,1635T,18,2,4,0
+Bulat Galiev,1635T,24,2,4,0
+Mark Havlicek,1635T,18,2,4,0
+George Houghton,1635T,23,2,4,0
+Joshua Howard-Tripp,1635T,22,2,4,0
+Tukhula Jacobs,1635T,27,2,4,0
+Arturs Lazdins,1635T,24,2,4,0
+Leonardo Lopez Linquet,1635T,20,2,4,0
+Kevin Major,1635T,26,2,4,0
+Federico Marchetti,1635T,21,2,4,0
+Ricardo David Mayagoitia,1635T,27,2,4,0
+Matthew Mendez,1635T,26,2,4,0
+Vasko Mladenov,1635T,32,2,4,0
+Marco Mosciatti,1635T,24,2,4,0
+Patrik Nema,1635T,24,2,4,0
+Alexandre Peyrot,1635T,27,2,4,0
+Petar Pjevcevic,1635T,26,2,4,0
+Giovanni Rizzuti,1635T,26,2,4,0
+Christian Samuelsson,1635T,26,2,4,0
+Artur Shakhnubaryan,1635T,25,2,4,0
+Atharva Sharma,1635T,21,2,4,0
+Nikola Slavic,1635T,21,2,4,0
+Jordan Smith,1635T,25,2,4,0
+Gustaf Strom,1635T,20,2,4,0
+Olivier Stuart,1635T,24,2,4,0
+David Agung Susanto,1635T,30,2,4,0
+Joseph Imeh Ubon,1635T,24,2,4,0
+Patrick Zahraj,1635T,22,2,4,0
+Jack Anthrop,1669T,18,2,5,0
+Alexander Hoogmartens,1669T,19,2,5,0
+Olaf Pieczkowski,1669T,17,2,5,0
+Rigele Te,1669T,24,2,5,0
+Leonardo Telles,1669T,26,2,5,0
+Juan Ignacio Alcalde,1674T,22,2,5,0
+Conor Berg,1674T,30,2,5,0
+Cesar Bourgois,1674T,24,2,5,0
+Anton Chekhov,1674T,29,2,5,0
+Paolo Dagnino,1674T,24,2,5,0
+Felipe Derdoy,1674T,25,2,5,0
+Allan Deschamps,1674T,20,2,5,0
+Franco Feitt,1674T,29,2,5,0
+Philip Florig,1674T,18,2,5,0
+Luke Jacob Gamble,1674T,26,2,5,0
+Andre Gaspar Murta,1674T,27,2,5,0
+Michael Gloeckler,1674T,23,2,5,0
+Caio Gruber,1674T,21,2,5,0
+Jiri Jenicek,1674T,22,2,5,0
+Filip Kolasinski,1674T,21,2,5,0
+Marc Othman Ktiri,1674T,18,2,5,0
+Hugo Largo,1674T,24,2,5,0
+Michael Look,1674T,34,2,5,0
+Ryuki Matsuda,1674T,22,2,5,0
+Alexander Ovcharov,1674T,23,2,5,0
+Bradley Paliska,1674T,19,2,5,0
+Bogdan Pavel,1674T,22,2,5,0
+Neel Rajesh,1674T,21,2,5,0
+Federico Salomone,1674T,20,2,5,0
+Christian Seraphim,1674T,26,2,5,0
+Karan Singh,1674T,18,2,5,0
+Yunosuke Tanaka,1674T,23,2,5,0
+Vivien Versier,1674T,24,2,5,0
+Jing Long Weng,1674T,21,2,5,0
+Boris Fassbender,1703T,23,2,6,0
+Haoyuan Huang,1703T,19,2,6,0
+Rodrigo Echavarria,1705T,25,2,6,0
+Oscar Galimardanov,1705T,21,2,6,0
+Andrej Glvac,1705T,25,2,6,0
+Jake Hersey,1705T,21,2,6,0
+Joao Hinsching,1705T,24,2,6,0
+Hasan Ibrahim,1705T,26,2,6,0
+Timur Khabibulin,1705T,26,2,6,0
+Alexander Klintcharov,1705T,25,2,6,0
+Giuseppe La Vela,1705T,21,2,6,0
+Elmer Moller,1705T,18,2,6,0
+Federico Moreno,1705T,27,2,6,0
+Petr Nesterov,1705T,19,2,6,0
+Ken Onishi,1705T,26,2,6,0
+Marco Saffratti,1705T,22,2,6,0
+Luca Staeheli,1705T,21,2,6,0
+Luis Diego Chavez Villalpando,1720T,26,2,7,0
+Milan Drinic,1720T,24,2,7,0
+Junior A. Ore,1720T,29,2,7,0
+Alexander Boborykin,1723T,25,2,7,0
+Nicolas Bruna,1723T,23,2,7,0
+Shahar Elbaz,1723T,25,2,7,0
+Ondrej Horak,1723T,19,2,7,0
+Dong Ju Kim,1723T,19,2,7,0
+Lucas Renard,1723T,29,2,7,0
+Aaron Schmid,1723T,21,2,7,0
+Roland Stuurman,1723T,22,2,7,0
+Naoki Takeda,1723T,28,2,7,0
+Ranjeet Virali-Murugesan,1723T,36,2,7,0
+Facundo Yunis,1723T,19,2,7,0
+Lucio Carnevalle,1734T,20,2,8,0
+Majed Kilani,1734T,25,2,8,0
+Olimjon Nabiev,1734T,19,2,8,0
+Shohei Chikami,1737T,23,2,8,0
+Amaury Delmas,1737T,23,2,8,0
+Scott Duncan,1737T,27,2,8,0
+Anthony Genov,1737T,20,2,8,0
+Aleksei Khomich,1737T,25,2,8,0
+William Ma,1737T,26,2,8,0
+Tomohiro Masabayashi,1737T,24,2,8,0
+Petr Michnev,1737T,32,2,8,0
+Miguel Fernando Pereira,1737T,22,2,8,0
+Hugo Pierre,1737T,25,2,8,0
+Hillel Rousseau,1737T,26,2,8,0
+Mehdi Sadaoui,1737T,18,2,8,0
+Afonso Salgado,1737T,24,2,8,0
+Davide Tortora,1737T,21,2,8,0
+Muthu Aadhitiya Senthilkumar,1751,22,2,9,0
+Ivar Jose Aramburu Contreras,1752T,27,2,9,0
+Nicolas Bianchi,1752T,25,2,9,0
+Alessandro Ceppellini,1752T,25,2,9,0
+Jayden Court,1752T,21,2,9,0
+Mayeul Darras,1752T,23,2,9,0
+Andrea Del Federico,1752T,22,2,9,0
+Lior Goldenberg,1752T,22,2,9,0
+Mousheg Hovhannisyan,1752T,30,2,9,0
+Chad Kissell,1752T,25,2,9,0
+Vladislav Melnic,1752T,22,2,9,0
+Youcef Rihane,1752T,20,2,9,0
+Kent Tagashira,1752T,28,2,9,0
+Baran Cengiz,1764T,20,2,10,0
+Roi Ginat,1764T,21,2,10,0
+Sean Hodkin,1764T,23,2,10,0
+Dhruv Sunish,1764T,22,2,10,0
+Mike Urbanija,1764T,32,2,10,0
+Andres Urrea,1764T,27,2,10,0
+Thiemo de Bakker,1770,33,2,11,0
+Valentin Vanta,1771,24,2,11,0
+Samuel Brosset,1772T,24,2,12,0
+Jordan Hasson,1772T,22,2,12,0
+Admir Kalender,1772T,21,2,12,0
+Juan Pablo Canas Garcia,1775,24,2,14,0
+Nicolas Acevedo,1776T,22,1,1,0
+Amine Ahouda,1776T,24,1,1,0
+Davide Albertoni,1776T,26,1,1,0
+Isaac Arturo Arevalo,1776T,22,1,1,0
+Bor Artnak,1776T,17,1,1,0
+Japheth Anwasiba Bagerbaseh,1776T,28,1,1,0
+Nishesh Basavareddy,1776T,16,1,1,0
+Gianluca Beghi,1776T,30,1,1,0
+Fouad Behbehani,1776T,21,1,1,0
+Darwin Blanch,1776T,14,1,1,0
+Roman Boychuk,1776T,26,1,1,0
+Thomas Braithwaite,1776T,22,1,1,0
+Clay Crawford,1776T,27,1,1,0
+Andrew Dale,1776T,20,1,1,0
+Kamen Damov,1776T,22,1,1,0
+Clement Deleersnyder,1776T,20,1,1,0
+Alessandro Dragoni,1776T,24,1,1,0
+Felix Einig,1776T,,1,1,0
+Nicolas Eli,1776T,17,1,1,0
+Ron Ellouck,1776T,17,1,1,0
+Linus Erhart,1776T,27,1,1,0
+Cooper Errey,1776T,16,1,1,0
+Lorenzo Favero,1776T,20,1,1,0
+Bradley Frye,1776T,21,1,1,0
+Carson Gates,1776T,21,1,1,0
+Teodor Giusca,1776T,22,1,1,0
+Asdrubal Gobernate,1776T,26,1,1,0
+Javier Gonzalez,1776T,22,1,1,0
+Fabian Hansch Mauritzson,1776T,25,1,1,0
+Adam Heinonen,1776T,19,1,1,0
+Cameron Henricy Trigolos,1776T,21,1,1,0
+Tuur Heuvinck,1776T,24,1,1,0
+Samuel Hodor,1776T,25,1,1,0
+Michel Hopp,1776T,23,1,1,0
+Jeffrey Chuan En Hsu,1776T,24,1,1,0
+Matias Iturbe,1776T,20,1,1,0
+Yannick Jankovits,1776T,35,1,1,0
+Nicholas Jovanovski,1776T,25,1,1,0
+Taha Kapadia,1776T,24,1,1,0
+Din Karahodza,1776T,19,1,1,0
+Karlo Kranic,1776T,22,1,1,0
+Kris Krawcewicz,1776T,25,1,1,0
+Hayato Kudo,1776T,23,1,1,0
+Miguel Mateo Larrea,1776T,16,1,1,0
+Alexandar Lazov,1776T,31,1,1,0
+Hyung-Chan Lim,1776T,36,1,1,0
+Ping Chen Lin,1776T,19,1,1,0
+Lucas Luini,1776T,24,1,1,0
+Ajay Malik,1776T,19,1,1,0
+Daniele Minighini,1776T,17,1,1,0
+Lasse Muscheites,1776T,25,1,1,0
+Richard Muzaev,1776T,29,1,1,0
+Andrej Nedic,1776T,17,1,1,0
+Neo Niedner,1776T,18,1,1,0
+Viktor Nikitin,1776T,24,1,1,0
+Benjamin Niv,1776T,21,1,1,0
+Noppadol Noikor,1776T,22,1,1,0
+Jakub Novak,1776T,26,1,1,0
+Jannik Opitz,1776T,23,1,1,0
+Carl Emil Overbeck,1776T,20,1,1,0
+Jun Sang Park,1776T,27,1,1,0
+Jeson Patrombon,1776T,28,1,1,0
+Thomas Pavlekovich Smith,1776T,20,1,1,0
+Miguel Perez Pena,1776T,19,1,1,0
+Luke Phillips,1776T,23,1,1,0
+Alejandro Reguant,1776T,23,1,1,0
+Frazier Rengifo,1776T,23,1,1,0
+Teun Rozenberg,1776T,18,1,1,0
+Lambert Ruland,1776T,18,1,1,0
+Toufik Sahtali,1776T,23,1,1,0
+Matija Samardzic,1776T,17,1,1,0
+Samuel Sanchez,1776T,19,1,1,0
+Igor Saveljic,1776T,26,1,1,0
+Jakob Schnaitter,1776T,25,1,1,0
+Julian Schubert,1776T,22,1,1,0
+Pietro Romeo Scomparin,1776T,20,1,1,0
+Stefan Simeunovic,1776T,17,1,1,0
+Macsen Sisam,1776T,21,1,1,0
+Stefan Skadarka,1776T,23,1,1,0
+Lakshit Sood,1776T,31,1,1,0
+Alessandro Spadola,1776T,19,1,1,0
+Wil Spencer,1776T,32,1,1,0
+Oleg Stepanenko,1776T,28,1,1,0
+Illia Stoliar,1776T,22,1,1,0
+Thantub Suksumrarn,1776T,20,1,1,0
+Shunrou Takeshima,1776T,31,1,1,0
+Shota Tange,1776T,21,1,1,0
+Luca George Tatomir,1776T,26,1,1,0
+Mateusz Terczynski,1776T,26,1,1,0
+Jesse Timmermans,1776T,32,1,1,0
+Joe Tyler,1776T,23,1,1,0
+Henrique Hamamoto Ushizima,1776T,16,1,1,0
+Martin Antonio Vergara Del Puerto,1776T,17,1,1,0
+Zack Viiala,1776T,16,1,1,0
+Leonard Von Hindte,1776T,27,1,1,0
+Stefan Vujic,1776T,23,1,1,0
+Olle Wallin,1776T,20,1,1,0
+Marcus Walters,1776T,23,1,1,0
+Arthur Weber,1776T,29,1,1,0
+Ben Weintraub,1776T,18,1,1,0
+Phoenix Weir,1776T,16,1,1,0
+Jesse Witten,1776T,39,1,1,0
+Zhao Zhao,1776T,22,1,1,0
+Arsenije Zlatanovic,1776T,32,1,1,0
+Mate Zsiga,1776T,29,1,1,0
+Simone Agostini,1881T,24,1,2,0
+Eric Ahren Moonga,1881T,26,1,2,0
+Ran Amar,1881T,22,1,2,0
+Benjamin L. Ambrosio,1881T,20,1,2,0
+Ofek Amoyal,1881T,22,1,2,0
+Robbie Arends,1881T,20,1,2,0
+Shay Bar Menahem,1881T,18,1,2,0
+Carles Batlle,1881T,21,1,2,0
+Romain Bauvy,1881T,27,1,2,0
+Aissa Benchakroun,1881T,19,1,2,0
+Santiago Besada,1881T,23,1,2,0
+Jorge Blanco Guadalupe,1881T,24,1,2,0
+Attila Boros,1881T,18,1,2,0
+Adrien Bossel,1881T,35,1,2,0
+Adam Bronka,1881T,22,1,2,0
+Florian Broska,1881T,24,1,2,0
+Vuk Budic,1881T,23,1,2,0
+Jacob Bullard,1881T,21,1,2,0
+Simone Cacciapuoti,1881T,21,1,2,0
+Leonardo Catani,1881T,22,1,2,0
+Raul Gerardo Centeno Arteaga,1881T,20,1,2,0
+Christian Didier Chin,1881T,21,1,2,0
+Seung-Ri Choi,1881T,31,1,2,0
+Charlelie Cosnet,1881T,19,1,2,0
+Tomas Curras Abasolo,1881T,21,1,2,0
+Mans Dahlberg,1881T,18,1,2,0
+Angel Diaz Jalil,1881T,20,1,2,0
+Sylvester Emmanuel,1881T,23,1,2,0
+Tom Evans,1881T,20,1,2,0
+Luca Fantini,1881T,21,1,2,0
+Qun Gao,1881T,28,1,2,0
+Agustin Maria Gascia,1881T,25,1,2,0
+Arthur Gea,1881T,17,1,2,0
+Tomas Gerini,1881T,26,1,2,0
+Mohamad Gomaa,1881T,22,1,2,0
+Vladyslav Gorodynskyi,1881T,24,1,2,0
+Cleeve Harper,1881T,21,1,2,0
+Patrik Hartmeier,1881T,25,1,2,0
+Carlos Hassey,1881T,22,1,2,0
+Benedikt Henning,1881T,24,1,2,0
+Louis Herman,1881T,20,1,2,0
+Erik Holt-Crossman,1881T,24,1,2,0
+David Hough,1881T,24,1,2,0
+Emile Hudd,1881T,21,1,2,0
+Karim Ibrahim,1881T,18,1,2,0
+Davide Innocenti,1881T,22,1,2,0
+Stephen Kaldawi,1881T,26,1,2,0
+Dmytro Kamynin,1881T,32,1,2,0
+Sean Kamyshev,1881T,20,1,2,0
+Shahin Khaledan,1881T,31,1,2,0
+Benjamin Kittay,1881T,18,1,2,0
+Alexis Klegou,1881T,33,1,2,0
+Alexander Knight,1881T,25,1,2,0
+Veljko Krstic,1881T,18,1,2,0
+Younes Lalami Laaroussi,1881T,20,1,2,0
+Dominik Langmajer,1881T,22,1,2,0
+George Lazarov,1881T,16,1,2,0
+Aleksi Lofman,1881T,20,1,2,0
+Will Maher,1881T,22,1,2,0
+Jonas Maier,1881T,25,1,2,0
+Alexander Mannapov,1881T,26,1,2,0
+Jordi Mas De Ugarte,1881T,26,1,2,0
+Ryotero Matsumura,1881T,25,1,2,0
+Jakub Mensik,1881T,16,1,2,0
+Rodrigo Nicolas Montes De Oca Murillo,1881T,19,1,2,0
+Daniel Mora,1881T,25,1,2,0
+Mykhailo Mossur,1881T,18,1,2,0
+Antonio Muniz Hidalgo,1881T,22,1,2,0
+François Musitelli,1881T,23,1,2,0
+Anurag Nenwani,1881T,23,1,2,0
+Ignacio Novo,1881T,21,1,2,0
+Kosuke Okagaki,1881T,23,1,2,0
+Sung Jun Park,1881T,28,1,2,0
+Denis Parshutin,1881T,22,1,2,0
+Piotr Pawlak,1881T,20,1,2,0
+Julien Penzlin,1881T,19,1,2,0
+Andreja Petrovic,1881T,22,1,2,0
+Samuele Pieri,1881T,20,1,2,0
+Karl Poling,1881T,22,1,2,0
+Lilian Prod'Homme,1881T,23,1,2,0
+Fardeen Qamar,1881T,20,1,2,0
+Jean-Jacques Rakotohasy,1881T,27,1,2,0
+Josh Reid,1881T,20,1,2,0
+Yannik Reuter,1881T,31,1,2,0
+Nicolas Rousset,1881T,22,1,2,0
+Amador Salazar,1881T,21,1,2,0
+Toby Samuel,1881T,19,1,2,0
+Rodrigo Sanchez,1881T,30,1,2,0
+Yair Sarouk,1881T,20,1,2,0
+Markus Schultz,1881T,28,1,2,0
+Ivan Sergeyev,1881T,34,1,2,0
+Kazuki Shimizu,1881T,22,1,2,0
+Shonigmatjon Shofayziyev,1881T,28,1,2,0
+Vladan Tadic,1881T,21,1,2,0
+Robin Thour,1881T,27,1,2,0
+Luka Todorovic,1881T,19,1,2,0
+Tiago Torres,1881T,19,1,2,0
+Mark Tryakshin,1881T,20,1,2,0
+Charles Tzicas,1881T,23,1,2,0
+Vadym Ursu,1881T,25,1,2,0
+Quinn Vandecasteele,1881T,19,1,2,0
+Danylo Veremeychuk,1881T,25,1,2,0
+Michael Weindl,1881T,26,1,2,0
+Yannick Wunderlich,1881T,18,1,2,0
+Kento Yamada,1881T,23,1,2,0
+Borys Zgola,1881T,18,1,2,0
+Goran Zivotic,1881T,20,1,2,0
+Shaheed Alam,1988T,23,1,3,0
+Seydina Andre,1988T,18,1,3,0
+Nevin Arimilli,1988T,22,1,3,0
+Abraham Asaba,1988T,24,1,3,0
+Gianluca Ballotta,1988T,18,1,3,0
+Samir Banerjee,1988T,18,1,3,0
+David Barclay,1988T,31,1,3,0
+Haadin Salim Bava,1988T,27,1,3,0
+Adrian Mateo Bejenaru,1988T,20,1,3,0
+Viacheslav Bielinskyi,1988T,18,1,3,0
+Darko Bojanovic,1988T,25,1,3,0
+Constant De La Bassetiere,1988T,24,1,3,0
+Gerard Escandell Juan,1988T,21,1,3,0

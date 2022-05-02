@@ -1,0 +1,71 @@
+tournament_name,tournament_location,tournament_date,tournament_draw,tournament_surface,tournament_financial_commitment,id_tournament
+ATP Cup,"Sydney, Australia",2022.01.01,SGL 16 DBL 16,Outdoor Hard,"$10,000,000",1
+Adelaide International 1,"Adelaide, Australia",2022.01.03,SGL 16 DBL 16,Outdoor Hard,"$416,800",2
+Melbourne Summer Set,"Melbourne, Australia",2022.01.04,SGL 16 DBL 16,Outdoor Hard,"$521,000",3
+Sydney Tennis Classic,"Sydney, Australia",2022.01.10,SGL 16 DBL 16,Outdoor Hard,"$521,000",4
+Adelaide International 2,"Adelaide, Australia",2022.01.10,SGL 16 DBL 16,Outdoor Hard,"$493,875",5
+Australian Open,"Melbourne, Australia",2022.01.17,SGL 16 DBL 16,Outdoor Hard,"A$33,784,200",6
+Cordoba Open,"Cordoba, Argentina",2022.01.31,SGL 16 DBL 16,Outdoor Hard,"$493,875",7
+Tata Open Maharashtra,"Pune, India",2022.01.31,SGL 16 DBL 16,Outdoor Hard,"$493,875",8
+Open Sud de France – Montpellier,"Montpellier, France",2022.01.31,SGL 16 DBL 16,Outdoor Hard,"€490,990",9
+ABN Amro World Tennis Tournament,"Rotterdam, Netherlands",2022.02.07,SGL 16 DBL 16,Outdoor Hard,"€1,349,070",10
+Dallas Open,"Dallas, United States",2022.02.07,SGL 16 DBL 16,Outdoor Hard,"$792,980",11
+Argentina Open,"Buenos Aires, Argentina",2022.02.07,SGL 16 DBL 16,Outdoor Hard,"$686,700",12
+Rio Open presented by Claro,"Rio de Janeiro, Brazil",2022.02.14,SGL 16 DBL 16,Outdoor Hard,"$1,815,115",13
+Qatar ExxonMobil Open,"Doha, Qatar",2022.02.14,SGL 16 DBL 16,Outdoor Hard,"$1,176,595",14
+Delray Beach Open by VITACOST.com,"Delray Beach, United States",2022.02.14,SGL 16 DBL 16,Outdoor Hard,"$664,275",15
+Open 13 Provence,"Marseille, France",2022.02.14,SGL 16 DBL 16,Outdoor Hard,"€622,610",16
+Dubai Duty Free Tennis Championships,"Dubai, United Arab Emirates",2022.02.21,SGL 16 DBL 16,Outdoor Hard,"$2,949,665",17
+Abierto Mexicano Telcel presentado por HSBC,"Acapulco, Mexico",2022.02.21,SGL 16 DBL 16,Outdoor Hard,"$1,832,890",18
+Chile Dove Men+Care Open,"Santiago, Chile",2022.02.21,SGL 16 DBL 16,Outdoor Hard,"$546,340",19
+BNP Paribas Open,"Indian Wells, United States",2022.03.10,SGL 16 DBL 16,Outdoor Hard,"$9,554,920",20
+Miami Open presented by Itau,"Miami, United States",2022.03.23,SGL 16 DBL 16,Outdoor Hard,"$9,554,920",21
+Fayez Sarofim & Co. U.S. Men's Clay Court Championship,"Houston, United States",2022.04.04,SGL 16 DBL 16,Outdoor Hard,"$665,330",22
+Grand Prix Hassan II,"Marrakech, Morocco",2022.04.04,SGL 16 DBL 16,Outdoor Hard,"€597,900",23
+Rolex Monte-Carlo Masters,"Monte Carlo, Monaco",2022.04.10,SGL 16 DBL 16,Outdoor Hard,"€5,802,475",24
+Barcelona Open Banc Sabadell,"Barcelona, Spain",2022.04.18,SGL 16 DBL 16,Outdoor Hard,"€2,802,580",25
+Serbia Open,"Belgrade, Serbia",2022.04.18,SGL 16 DBL 16,Outdoor Hard,"€597,900",26
+BMW Open by American Express,"Munich, Germany",2022.04.25,SGL 16 DBL 16,Outdoor Hard,"€597,900",27
+Millennium Estoril Open,"Estoril, Portugal",2022.04.25,SGL 16 DBL 16,Outdoor Hard,"€597,900",28
+Mutua Madrid Open,"Madrid, Spain",2022.05.01,SGL 16 DBL 16,Outdoor Hard,"€7,499,290",29
+Internazionali BNL d'Italia,"Rome, Italy",2022.05.08,SGL 16 DBL 16,Outdoor Hard,"€6,008,725",30
+Gonet Geneva Open,"Geneva, Switzerland",2022.05.15,SGL 16 DBL 16,Outdoor Hard,"€597,900",31
+Open Parc Auvergne-Rhone-Alpes Lyon,"Lyon, France",2022.05.15,SGL 16 DBL 16,Outdoor Hard,"€597,900",32
+Roland Garros,"Paris, France",2022.05.22,SGL 16 DBL 16,Outdoor Hard,,33
+Weissenhof,"Stuttgart, Germany",2022.06.06,SGL 16 DBL 16,Outdoor Hard,"€769,645",34
+Libema Open,"'s-Hertogenbosch, Netherlands",2022.06.06,SGL 16 DBL 16,Outdoor Hard,"€725,540",35
+Cinch Championships,"London, Great Britain",2022.06.13,SGL 16 DBL 16,Outdoor Hard,"€2,275,275",36
+Terra Wortmann Open,"Halle, Germany",2022.06.13,SGL 16 DBL 16,Outdoor Hard,"€2,275,275",37
+Mallorca Championships,"Mallorca, Spain",2022.06.19,SGL 16 DBL 16,Outdoor Hard,"€951,745",38
+Rothesay International,"Eastbourne, Great Britain",2022.06.20,SGL 16 DBL 16,Outdoor Hard,"€760,750",39
+Wimbledon,"London, Great Britain",2022.06.27,SGL 16 DBL 16,Outdoor Hard,,40
+Infosys Hall of Fame Open,"Newport, United States",2022.07.11,SGL 16 DBL 16,Outdoor Hard,,41
+Nordea Open,"Bastad, Sweden",2022.07.11,SGL 16 DBL 16,Outdoor Hard,,42
+EFG Swiss Open Gstaad,"Gstaad, Switzerland",2022.07.18,SGL 16 DBL 16,Outdoor Hard,,43
+Hamburg European Open,"Hamburg, Germany",2022.07.18,SGL 16 DBL 16,Outdoor Hard,,44
+Generali Open,"Kitzbuhel, Austria",2022.07.25,SGL 16 DBL 16,Outdoor Hard,,45
+Plava Laguna Croatia Open Umag,"Umag, Croatia",2022.07.25,SGL 16 DBL 16,Outdoor Hard,,46
+TRUIST Atlanta Open presented by Fiserv,"Atlanta, United States",2022.07.25,SGL 16 DBL 16,Outdoor Hard,,47
+Abierto de Tenis Mifel,"Los Cabos, Mexico",2022.08.01,SGL 16 DBL 16,Outdoor Hard,,48
+Citi Open,"Washington, United States",2022.08.01,SGL 16 DBL 16,Outdoor Hard,,49
+National Bank Open Presented by Rogers,"Montreal, Canada",2022.08.07,SGL 16 DBL 16,Outdoor Hard,,50
+Western & Southern Open,"Cincinnati, United States",2022.08.14,SGL 16 DBL 16,Outdoor Hard,,51
+Winston-Salem Open,"Winston-Salem, United States",2022.08.21,SGL 16 DBL 16,Outdoor Hard,,52
+US Open,United States,2022.08.29,SGL 16 DBL 16,Outdoor Hard,,53
+Moselle Open,"Metz, France",2022.09.19,SGL 16 DBL 16,Outdoor Hard,,54
+The Astana Open,"Nur-Sultan, Kazakhstan",2022.09.19,SGL 16 DBL 16,Outdoor Hard,,55
+Laver Cup,"London, Great Britain",2022.09.23,SGL 16 DBL 16,Outdoor Hard,,56
+Chengdu Open,"Chengdu, China",2022.09.26,SGL 16 DBL 16,Outdoor Hard,,57
+Sofia Open,"Sofia, Bulgaria",2022.09.26,SGL 16 DBL 16,Outdoor Hard,,58
+Zhuhai Championships,"Zhuhai, China",2022.09.26,SGL 16 DBL 16,Outdoor Hard,,59
+China Open,"Beijing, China",2022.10.03,SGL 16 DBL 16,Outdoor Hard,,60
+Rakuten Japan Open Tennis Championships,"Tokyo, Japan",2022.10.03,SGL 16 DBL 16,Outdoor Hard,,61
+Rolex Shanghai Masters,"Shanghai, China",2022.10.09,SGL 16 DBL 16,Outdoor Hard,,62
+European Open,"Antwerp, Belgium",2022.10.17,SGL 16 DBL 16,Outdoor Hard,,63
+Stockholm Open,"Stockholm, Sweden",2022.10.17,SGL 16 DBL 16,Outdoor Hard,,64
+VTB Kremlin Cup (Suspended),"Moscow, Russia",2022.10.17,SGL 16 DBL 16,Outdoor Hard,,65
+Erste Bank Open,"Vienna, Austria",2022.10.24,SGL 16 DBL 16,Outdoor Hard,,66
+Swiss Indoors Basel,"Basel, Switzerland",2022.10.24,SGL 16 DBL 16,Outdoor Hard,,67
+Rolex Paris Masters,"Paris, France",2022.10.31,SGL 16 DBL 16,Outdoor Hard,,68
+Intesa Sanpaolo Next Gen ATP Finals,"Milan, Italy",2022.11.08,SGL 16 DBL 16,Outdoor Hard,,69
+Nitto ATP Finals,"Turin, Italy",2022.11.13,SGL 16 DBL 16,Outdoor Hard,,70

@@ -1,0 +1,124 @@
+{
+    "stream_tweets": [
+        {
+            "data": {
+                "id": "1507511159020158980",
+                "text": "https://t.co/LnzKGO7KJL Top coach praises Novak Djokovic for sticking to his strong beliefs: Djokovic is one of the greatest tennis players of all time https://t.co/qY42timKTb"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581327",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507511398389198853",
+                "text": "Tsitsipas Stefanos (1.27)  \nWolf Jeffrey John (4.17) \n15:00, Miami, 2. round, hard\nhttps://t.co/Ldt3fBQQ54\n\n#MiamiOpen \n#Tennis https://t.co/m5R9cE72EG"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581323",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507511536130019328",
+                "text": "Top coach praises Novak Djokovic for sticking to his strong beliefs https://t.co/uwmahRnirJ"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581327",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507511987370176513",
+                "text": "@CristinaNcl @unforgivenrb Actually, the ball hit the lineswoman in the Shoulder as I seem to recall!\n\nNadal, for an example, is \nNever Punished for his Gamesmanship and his offensive, Unsportsmanlike (and disgusting!) behaviour on the court - even if he does not throw his racquets in frustration!"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581327",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507512333589151745",
+                "text": "@iga_swiatek @BNPPARIBASOPEN @WTA @XiaomiPL @GrupaPZU @ASICSTennis @tecnifibre Super"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581321",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507512463889436673",
+                "text": "@iga_swiatek @BNPPARIBASOPEN @WTA @XiaomiPL @GrupaPZU @ASICSTennis @tecnifibre Supet"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581321",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507512844228640773",
+                "text": "\u2018They Just Can\u2019t Give 100%\u2019- Chris Evert Symphatizes With Daniil Medvedev, Andrey Rublev, and Others Amid Speculations Over Their Ban - EssentiallySport.     https://t.co/7wJhVMnxeA"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581320",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507512882417876994",
+                "text": "@AnnaK_4ever Pretty much all the surfaces are too slow, Miami being one of the worst. Even I won\u2019t watch that slog. \ud83c\udfbe"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581320",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507513190950735874",
+                "text": "2022 @BNPPARIBASOPEN Champion @iga_swiatek defeats 2021 @Abierto_GNP Finalist #ViktorijaGolubic 6-2, 6-0 tonight at the 2022 @MiamiOpen #MiamiOpen in Miami."
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581321",
+                    "tag": ""
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "1507513330621194242",
+                "text": "Chris Evert fly over Mariupol..(&amp; if you have a \u2764\ufe0f you will know where your sympathy should lie)"
+            },
+            "matching_rules": [
+                {
+                    "id": "1507511044381581320",
+                    "tag": ""
+                }
+            ]
+        }
+    ]
+}
